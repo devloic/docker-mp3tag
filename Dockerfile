@@ -1,31 +1,31 @@
 #
-# mkvcleaver Dockerfile
+# mp3tag Dockerfile
 #
-# https://github.com/jlesage/docker-mkvcleaver
+# https://github.com/devloic/docker-mp3tag
 #
 
 # Docker image version is provided via build arg.
 ARG DOCKER_IMAGE_VERSION=
 
 # Define software versions.
-ARG MKVCLEAVER_VERSION=0800
-ARG MKVTOOLNIX_VERSION=33.1.0
+ARG MYAPP_NAME=Mp3tag
+ARG MYAPP_VERSION=3.27a
 
-# Define software download URLs.
-ARG MKVCLEAVER_URL=https://www.videohelp.com/download/MKVCleaver_x64_v${MKVCLEAVER_VERSION}.exe
-ARG MKVTOOLNIX_URL=https://mkvtoolnix.download/windows/releases/${MKVTOOLNIX_VERSION}/mkvtoolnix-64-bit-${MKVTOOLNIX_VERSION}.7z
 
-# Build MKVCleaver.
-FROM alpine:3.17 AS mkvcleaver
-ARG MKVCLEAVER_URL
-ARG MKVTOOLNIX_URL
-COPY src/mkvcleaver /build
-RUN /build/build.sh "$MKVCLEAVER_URL" "$MKVTOOLNIX_URL"
+# Build myapp.
+
+FROM alpine:3.17 AS myapp
+COPY src /build
+
+#mp3tag
+COPY mp3tag /mp3tag
+RUN /build/build.sh 
 
 # Pull base image.
 FROM jlesage/baseimage-gui:alpine-3.17-v4.6.4
 
-ARG MKVCLEAVER_VERSION
+ARG MYAPP_VERSION
+ARG MYAPP_NAME
 ARG DOCKER_IMAGE_VERSION
 
 # Define working directory.
@@ -38,29 +38,28 @@ RUN \
 
 # Generate and install favicons.
 RUN \
-    APP_ICON_URL=https://raw.githubusercontent.com/jlesage/docker-templates/master/jlesage/images/mkvcleaver-icon.png && \
+    APP_ICON_URL=https://raw.githubusercontent.com/devloic/logomp3tag.png && \
     install_app_icon.sh "$APP_ICON_URL"
 
 # Add files.
 COPY rootfs/ /
-COPY --from=mkvcleaver /opt/mkvcleaver /opt/mkvcleaver
-COPY --from=mkvcleaver /opt/mkvtoolnix /opt/mkvtoolnix
-COPY --from=mkvcleaver /defaults /defaults
+COPY --from=myapp /opt/myapp /opt/myapp
+COPY --from=myapp /defaults /defaults
 
 # Set internal environment variables.
 RUN \
-    set-cont-env APP_NAME "MKVCleaver" && \
-    set-cont-env APP_VERSION "$MKVCLEAVER_VERSION" && \
+    set-cont-env APP_NAME "$MYAPP_NAME" && \
+    set-cont-env APP_VERSION "$MYAPP_VERSION" && \
     set-cont-env DOCKER_IMAGE_VERSION "$DOCKER_IMAGE_VERSION" && \
     true
 
 # Define mountable directories.
-VOLUME ["/storage"]
+VOLUME ["/music"]
 
 # Metadata.
 LABEL \
-      org.label-schema.name="mkvcleaver" \
-      org.label-schema.description="Docker container for MKVCleaver" \
+      org.label-schema.name="${MYAPP_NAME:-unknown}" \
+      org.label-schema.description="Docker container for ${MYAPP_NAME:-unknown}" \
       org.label-schema.version="${DOCKER_IMAGE_VERSION:-unknown}" \
       org.label-schema.vcs-url="https://github.com/jlesage/docker-mkvcleaver" \
       org.label-schema.schema-version="1.0"

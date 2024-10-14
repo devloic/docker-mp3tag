@@ -1,0 +1,729 @@
+﻿LANGAUTHOR Alexey Lugin, Kopejkin
+LANGCONTACT alexeylugin@gmail.com, kopejkin.ru@gmail.com
+LANGVERSION 3.26
+LANGCODE_639_1 uk
+LANGNAME Ukrainian
+LANGNAMELOC Українська
+SLangCancel Скасувати
+SLangOk &OK
+SLangErrCatch Runtime Error\n\nФайл:\t{1}\nРядок:\t{2}\n\nПрограма зіткнулася з несподіваним винятком і знаходиться у невизначеному стані. Закрийте програму і надішліть файл \n\n{3}\n\nі детальний звіт про помилку в службу підтримки.\n\nemail: support@mp3tag.de
+SLangErrCheck Runtime Error\n\nФайл:\t{1}\nРядок:\t{2}\nВираз:\t{3}\nКод:\t0x{4}\n\nПрограма зіткнулася з несподіваним винятком і знаходиться у невизначеному стані. Закрийте програму і надішліть файл \n\n{5}\n\nта детальний звіт про помилку в службу підтримки.\n\nemail: support@mp3tag.de
+SLangErrDriveCannotBeAccessed Немає доступу до диска {1}.
+SLangErrFileCannotBeAccessed Немає доступу до файлу {1}.
+SLangErrFileCannotBeDeleted Файл {1} не вдалося видалити.\n\n» Переконайтеся, що файл не використовується жодним іншим процесом.
+SLangErrFolderCannotBeAccessed Немає доступу до каталогу {1}.
+SLangErrFolderCannotBeDeleted Каталог {1} неможливо видалити.\n\n» Переконайтеся, що каталог не використовується жодним іншим процесом.
+SLangErrHelpBrowserIsNotAvailable Mp3tag не зміг відобразити файл довідки у вашому стандартному браузері.
+SLangErrHelpSystemIsNotAvailable Довідкова система не доступна.\n\n» Перевстановіть {1}.
+SLangErrHelpTopicIsNotAvailable Розділ довідки недоступний.\n\n» Зверніться до служби підтримки.\n\nemail: support@mp3tag.de
+SLangErrNotEnoughFreeDiskSpace Недостатньо вільного місця на пристрої {1}.\n\n» Звільніть щонайменше {2} дискового простору.
+SLangErrRegistryCannotBeAccessed Помилка читання даних\n\nНеможливо отримати доступ до реєстру Windows.
+SLangMsgItemExistsAlready Такий опис вже існує.\n\n» Використайте інший опис.
+SLangMsgFirstSteps Будь ласка, приділіть трохи часу ознайомленню з коротким посібником.
+SLangMsgShutdownInfo Зачекайте, доки {1} завершує роботу.
+SLangWrnAppIsAlreadyRunning Копію цієї програми вже запущено.
+SLangWrnAppHasToBeRestarted Перезапустіть Mp3tag, щоб зміни набули чинності.\n\nПерезапустити Mp3tag зараз?
+SLangWrnNameContainsInvalidCharacters Опис містить неприпустимі символи.\n\n» Використайте інший опис.
+SLangWrnStartLogging Ви запустили {1} з параметром командного рядка FLOG1. Цей параметр помітно сповільнює програму і призначений лише для налагодження.\n\nУвімкнути журналювання?
+_C_ABORT Перервати
+_C_ABORTING Переривання...
+_C_APP_ST_ALBUM Альбом
+_C_APP_ST_ARTIST Виконавець
+_C_APP_ST_COMMENT Коментар
+_C_APP_ST_FOLDER Каталог
+_C_APP_ST_GENRE Жанр
+_C_APP_ST_TITLE Назва
+_C_APP_ST_TRACK Номер
+_C_APP_ST_YEAR Рік
+_C_CANCEL Скасувати
+_C_CANCELING Скасування...
+_C_CHECK Перевірити
+_C_CLOSE Закрити
+_C_DLG_CDDBCONFIRM_CAPTION Список результатів пошуку...
+_C_DLG_CDDBCONFIRM_CHK_DISCID Копіювати ідентифікатор диска в коментар
+_C_DLG_CDDBCONFIRM_CHK_DISCID2 Копіювати ідентифікатор у відповідне поле
+_C_DLG_CDDBCONFIRM_CHK_SAMPLER Компіляція...
+_C_DLG_CDDBCONFIRM_CHK_SORT Власний порядок сортування
+_C_DLG_CDDBCONFIRM_ST_INFO У базі даних знайдено кілька результатів.\nВиберіть потрібний:
+_C_DLG_CDDBCONFIRM_ST_INFO2 Знайдено {2} шт. результатів пошуку в базі даних {1}.\nВиберіть один:
+_C_DLG_CDDBCONFIRM_STC_TOP Виправлення знайденої інформації
+_C_DLG_CDDBINPUT_CAPTION Вкажіть ідентифікатор бази даних
+_C_DLG_CDDBINPUT_ST_CATEGORY Категорія:
+_C_DLG_CDDBINPUT_ST_ID Ідентифікатор бази даних:
+_C_DLG_CDDBSTYLE_CAPTION База даних freedb
+_C_DLG_CDDBSTYLE_RD_CDROM визначити з вставленого аудіо компакт-диска
+_C_DLG_CDDBSTYLE_RD_ENTER вказати
+_C_DLG_CDDBSTYLE_RD_MP3 визначити з вибраних файлів
+_C_DLG_CDDBSTYLE_RD_SEARCH визначити через пошук в Інтернеті
+_C_DLG_CDDBSTYLE_RD_SEARCHLOCAL визначити через пошук в тексті
+_C_DLG_CDDBSTYLE_STC_TOP Ідентифікатор бази даних (freedb-ID)...
+_C_DLG_COPYFORMAT Копіювати як текст
+_C_DLG_COPYFORMAT_BTN_COPY Копіювати
+_C_DLG_COLUMNS_CAPTION Стовпці
+_C_DLG_COLUMNS_TOP Вибір видимих стовпців
+_C_DLG_TAGS Змінити інформацію в тегу
+_C_DLG_TTF_TOP Виберіть формат рядка
+_C_FIND_BTN_FIND &Find
+_C_FIND_CAPTION Find
+_C_FIND_CHK_CASESENSITIVE &Case Sensitive
+_C_FIND_COLUMN_FIELD Field
+_C_FIND_COLUMN_MATCH Match
+_C_FIND_STATUS_BUSY Searching...
+_C_FIND_STATUS_MANY_MANY Found {1} matches in {2} files.
+_C_FIND_STATUS_MANY_ONE Found {1} matches in {2} file.
+_C_FIND_STATUS_NONE No matches found.
+_C_FIND_STATUS_ONE_ONE Found {1} match in {2} file.
+_C_FIND_STC_RESULT &Result:
+_C_FIND_STRATEGY_BEGINSWITH Begins With
+_C_FIND_STRATEGY_CONTAINS Contains
+_C_FIND_STRATEGY_ENDSWITH Ends With
+_C_FIND_STRATEGY_MATCHESCONTENT Matches Content
+_C_FIND_STRATEGY_MATCHESWORD Matches Word
+_C_FIND_STRATEGY_REGEX Regular Expression
+_C_HELP Довідка
+_C_MNU_ACTIONS Дії\tAlt+6
+_C_MNU_CON Конвертувати
+_C_MNU_CON_FTF Ім'я файлу -> Ім'я файлу\tAlt+3
+_C_MNU_CON_FTT Ім'я файлу -> Тег\tAlt+2
+_C_MNU_CON_TFF Файл зі списком тегів -> Тег\tAlt+4
+_C_MNU_CON_TTF Тег -> Ім'я файлу\tAlt+1
+_C_MNU_CON_TTT Тег -> Тег\tAlt+5
+_C_MNU_COVER_ADD Додати обкладинку...\tCtrl+Alt+A
+_C_MNU_EDIT Редагувати
+_C_MNU_EDIT_COPY Копіювати\tCtrl+C
+_C_MNU_EDIT_COPY_FORMAT Копіювати як текст...
+_C_MNU_EDIT_CUT Вирізати\tCtrl+X
+_C_MNU_EDIT_FIND &Find...\tCtrl+F
+_C_MNU_EDIT_INVERTSELECTION Інвертувати вибір\tCtrl+Shift+A
+_C_MNU_EDIT_NEXT Вибрати наступний файл\tCtrl+N
+_C_MNU_EDIT_PASTE Вставити\tCtrl+V
+_C_MNU_EDIT_REDO Повторити\tCtrl+Y
+_C_MNU_EDIT_REPEAT Повторити\tCtrl+Y
+_C_MNU_EDIT_SELECT Вибрати всі файли\tCtrl+A
+_C_MNU_EDIT_UNDO Скасувати\tCtrl+Z
+_C_MNU_EDIT_UNSELECTALL Зняти вибір\tCtrl+U
+_C_MNU_EXTRA Інструменти
+_C_MNU_EXTRA_OPTIONS Параметри...\tCtrl+O
+_C_MNU_EXTRA_RESET_EDITS Відновити значення всіх полів введення\tCtrl+B
+_C_MNU_EXTRA_SET_EDITS Стандартні значення в полях введення\tCtrl+W
+_C_MNU_EXTRA_TRACKWIZARD Майстер автоматичної нумерації...\tCtrl+K
+_C_MNU_FILE Файл
+_C_MNU_FILE_ADD Додати каталог...
+_C_MNU_FILE_CDDB База даних freedb...\tCtrl+I
+_C_MNU_FILE_CDDBLOCAL Локальна база freedb...\tCtrl+L
+_C_MNU_FILE_COPY Копіювати...
+_C_MNU_FILE_DELETE Видалити...
+_C_MNU_FILE_DIR Змінити каталог...\tCtrl+D
+_C_MNU_FILE_EXIT Вихід\tAlt+F4
+_C_MNU_FILE_EXPORT Експорт...\tCtrl+E
+_C_MNU_FILE_FAVDIR Каталог уподобань\tCtrl+M
+_C_MNU_FILE_MOVE Перемістити...
+_C_MNU_FILE_OPENFOLDER Відкрити у Провіднику
+_C_MNU_FILE_OPENCONFIGFOLDER Відкрити папку конфігурації
+_C_MNU_FILE_PLALL Список відтворення (всі файли)\tCtrl+P
+_C_MNU_FILE_PLAY Відтворити
+_C_MNU_FILE_PLAYLIST Завантажити список відтворення або cuesheet...
+_C_MNU_FILE_PLGEN Генератор списків відтворення...\tCtrl+Shift+P
+_C_MNU_FILE_PLSEL Список відтворення (вибрані файли)
+_C_MNU_FILE_PROPERTIES Властивості...
+_C_MNU_FILE_READ Прочитати теги\tCtrl+T
+_C_MNU_FILE_REMOVE Видалити тег\tCtrl+R
+_C_MNU_FILE_REMOVEFILE Прибрати\tDel
+_C_MNU_FILE_RENAME Перейменувати\tF2
+_C_MNU_FILE_SAVE Зберегти тег\tCtrl+S
+_C_MNU_FILE_SAVECONFIG Зберегти конфігурацію...
+_C_MNU_FREEDB freedb
+_C_MNU_FREEDB_INDEX Створити індекс
+_C_MNU_FS_EXT Додаткові поля
+_C_MNU_FS_FNCT Функції
+_C_MNU_FS_INFO Інформаційні поля
+_C_MNU_FS_MANAGE Керування історією...
+_C_MNU_FS_REM Видалити з історії
+_C_MNU_FS_REMALL Видалити все з історії...
+_C_MNU_FS_REMALL_MSG Повністю очистити історію?
+_C_MNU_HELP Довідка
+_C_MNU_HELP_ABOUT Про програму...
+_C_MNU_HELP_DONATE Пожертвування
+_C_MNU_HELP_FINDER Зміст...\tF1
+_C_MNU_HELP_FIRSTSTEPS Короткий посібник
+_C_MNU_HELP_KEYBOARD Сполучення клавіш
+_C_MNU_HELP_SUPPORT Підтримка в Інтернеті...
+_C_MNU_HELP_UPGRADE Перевірка оновлень...
+_C_MNU_HELP_WWW Вебсайт Mp3tag...
+_C_MNU_TAG_EDIT Редагувати...\tF2
+_C_MNU_TAG_NEW Додати...\tIns
+_C_MNU_TAG_REMOVE Прибрати\tDel
+_C_MNU_TAGSOURCES Джерела тегів
+_C_MNU_TAGSOURCES_SETTINGS Налаштування
+_C_MNU_TOOLS Інструменти
+_C_MNU_VIEW Вигляд
+_C_MNU_VIEW_COLUMNS Налаштувати стовпці...
+_C_MNU_VIEW_FILTER Фільтр\tF3
+_C_MNU_VIEW_FILTER_AUTOAPPLY Автозастосування фільтра
+_C_MNU_VIEW_ID3 Панель тегів\tCtrl+Q
+_C_MNU_VIEW_REFRESH Оновити\tF5
+_C_MNU_VIEW_SORTBY Сортувати за...
+_C_MNU_VIEW_SORTBYRANDOM Випадковий порядок
+_C_MNU_VIEW_TAGS Додаткові теги...\tAlt+T
+_C_MNU_VIEW_TOOLBAR Панель інструментів
+_C_MNU_SB_ACTIONS Застосувати вказані користувачем дії до вибраних файлів.
+_C_MNU_SB_CON_FTF Перейменувати файли, ґрунтуючись на старих іменах файлів.
+_C_MNU_SB_CON_FTT Імпортувати теги за шаблоном з імен файлів.
+_C_MNU_SB_CON_TFF Імпортувати теги за шаблоном з текстового файлу.
+_C_MNU_SB_CON_TTF Перейменувати файли за певним шаблоном на основі тегів.
+_C_MNU_SB_CON_TTT Відформатувати теги на основі тегів.
+_C_MNU_SB_EDIT_COPY Копіювати вибраний текст або теги вибраних файлів в буфер обміну.
+_C_MNU_SB_EDIT_COPY_FORMAT Копіювати текстове представлення вибраних файлів у буфер обміну.
+_C_MNU_SB_EDIT_CUT Перемістити вибраний текст або теги вибраних файлів в буфер обміну.
+_C_MNU_SB_EDIT_INVERTSELECTION Інвертувати поточний вибір.
+_C_MNU_SB_EDIT_NEXT Вибрати наступний файл у вікні перегляду файлів.
+_C_MNU_SB_EDIT_PASTE Вставити вміст буфера обміну в поточне поле введення або у вибраний файл.
+_C_MNU_SB_EDIT_REDO Повторити останню скасовану операцію.
+_C_MNU_SB_EDIT_REPEAT Повторити останню операцію.
+_C_MNU_SB_EDIT_SELECT Вибрати файли в панелі перегляду файлів.
+_C_MNU_SB_EDIT_UNDO Скасувати останню операцію.
+_C_MNU_SB_EDIT_UNSELECTALL Скасувати вибір всіх файлів.
+_C_MNU_SB_EXTRA_OPTIONS Показати вікно параметрів.
+_C_MNU_SB_EXTRA_RESET_EDITS Видалити текст з усіх полів введення.
+_C_MNU_SB_EXTRA_SET_EDITS Використати стандартне значення для всіх полів введення.
+_C_MNU_SB_EXTRA_TRACKWIZARD Запустити майстер автоматичної нумерації треків та дисків.
+_C_MNU_SB_FILE_ADD Додати каталог до списку файлів.
+_C_MNU_SB_FILE_CDDB Отримати відомості про вставлений аудіо компакт-диск або вибрані аудіофайли через Інтернет.
+_C_MNU_SB_FILE_CDDBLOCAL Отримати відомості про вставлений аудіо компакт-диск або вибрані аудіофайли з локальної БД.
+_C_MNU_SB_FILE_COPY Копіювати вибрані файли в інший каталог.
+_C_MNU_SB_FILE_DELETE Видалити вибрані файли.
+_C_MNU_SB_FILE_DIR Змінити поточний робочий каталог.
+_C_MNU_SB_FILE_EXIT Вийти з програми.
+_C_MNU_SB_FILE_EXPORT Експортувати теги та інформацію з вибраних файлів.
+_C_MNU_SB_FILE_FAVDIR Змінити налаштування каталогу на типові.
+_C_MNU_SB_FILE_FREEDBINDEX Створити локальну індексну базу даних freedb для пошуку в локальній freedb.
+_C_MNU_SB_FILE_MOVE Перемістити вибрані файли в інший каталог.
+_C_MNU_SB_FILE_PLALL Створити список відтворення з усіх файлів.
+_C_MNU_SB_FILE_PLAY Відтворити вибрані файли.
+_C_MNU_SB_FILE_PLAYLIST Завантажити вміст списку відтворення.
+_C_MNU_SB_FILE_PLSEL Створити список відтворення з вибраних файлів.
+_C_MNU_SB_FILE_PROPERTIES Показати властивості вибраних файлів.
+_C_MNU_SB_FILE_READ Помістити теги з вибраних файлів в поля введення.
+_C_MNU_SB_FILE_REMOVE Видалити тег з вибраних файлів.
+_C_MNU_SB_FILE_REMOVEFILE Прибрати вибрані файли зі списку.
+_C_MNU_SB_FILE_RENAME Перейменувати вибрані файли.
+_C_MNU_SB_FILE_SAVE Зберегти теги вибраних файлів.
+_C_MNU_SB_FILE_SAVECONFIG Зберегти поточні параметри в файлі конфігурації.
+_C_MNU_SB_HELP_ABOUT Інформація про програму Mp3tag.
+_C_MNU_SB_HELP_CONTEXT Показати контекстну довідку для вказаних полів, меню і вікон.
+_C_MNU_SB_HELP_DONATE Будь ласка, розгляньте можливість пожертвувати на підтримку розвитку Mp3tag.
+_C_MNU_SB_HELP_FINDER Відкрити зміст довідки програми.
+_C_MNU_SB_HELP_FIRSTSTEPS Показати короткий покроковий посібник програми Mp3tag.
+_C_MNU_SB_HELP_KEYBOARD Показати список сполучень клавіш
+_C_MNU_SB_HELP_SUPPORT Перейти до форумів Mp3tag.
+_C_MNU_SB_HELP_UPGRADE Перевірити оновлення Mp3tag
+_C_MNU_SB_HELP_WWW Перейти на сайт Mp3tag.
+_C_MNU_SB_UPDIR Перейти в каталог рівнем вище.
+_C_MNU_SB_VIEW_COLUMNS Показати вікно вибору стовпців для перегляду файлів.
+_C_MNU_SB_VIEW_FILTER Фільтрувати список файлів за певними критеріями.
+_C_MNU_SB_VIEW_ID3 Показати або приховати панель тегів.
+_C_MNU_SB_VIEW_REFRESH Оновити панель перегляду файлів.
+_C_MNU_SB_VIEW_TAGS Показати вікно додаткових тегів.
+_C_MNU_SB_VIEW_TOOLBAR Показати або приховати панель інструментів.
+_C_MNU_SB_WND_IDLE Готовий
+_C_MNU_SB_WND_MAXIMIZE Розгорнути вікно на весь екран
+_C_MNU_SB_WND_MINIMIZE Згорнути вікно на панель завдань
+_C_MNU_SB_WND_MOVE Перемістити вікно
+_C_MNU_SB_WND_RESTORE Відновити вікно зі згорнутого режиму або режиму на весь екран
+_C_MNU_SB_WND_SIZE Змінити розмір вікна
+_C_MULTILINE Багаторядкове поле
+_C_OK OK
+_C_OPT_ACTIONGROUPS Групи дій
+_C_OPT_ACTIONGROUPS_BTN_APPLY Застосувати
+_C_OPT_ACTIONGROUPS_SEL_EMPTY Жодну групу дій не увімкнено
+_C_OPT_ACTIONGROUPS_SEL_MULTI Увімкнено {1} групи дій
+_C_OPT_ACTIONGROUPS_SEL_SINGLE Увімкнено одну групу дій
+_C_OPT_ACTIONGROUPS_SORTBYNAME Сортувати за назвою
+_C_OPT_ACTIONGROUPS_SORTBYSTATE Сортувати за станом
+_C_OPT_ACTIONS Дії
+_C_OPT_ACTIONS_TYPE Виберіть тип дії
+_C_OPT_ADVANCED Додатково
+_C_OPT_ADVANCED_ID3V2LANG Мовний код (ISO-639-2) коментаря ID3v2
+_C_OPT_ADVANCED_LISTCHAPTERS Перелічити розділи як окремі файли
+_C_OPT_ADVANCED_POPULARIMETER Завжди відображати POPULARIMETER для рейтингів ID3v2
+_C_OPT_APPEARANCE Оформлення
+_C_OPT_APPEARANCE_COLOR_DARK Темна
+_C_OPT_APPEARANCE_COLOR_DEFAULT Системна
+_C_OPT_APPEARANCE_COLOR_LIGHT Світла
+_C_OPT_APPEARANCE_COLORMODE Колірна тема
+_C_OPT_APPEARANCE_MINVERSION потребує Windows 10 версії 1809 або новіше
+_C_OPT_CAPTION Параметри
+_C_OPT_CDDB_CAPTION База даних freedb
+_C_OPT_CDDB_CHK_USEPROXY Використовувати проксі
+_C_OPT_CDDB_FRM_CDDB Сервер бази даних freedb
+_C_OPT_CDDB_FRM_LOCALPATH Шлях до локальної бази даних:
+_C_OPT_CDDB_FRM_PROXY Проксі
+_C_OPT_CDDB_RD_FMT_UNIX UNIX-формат
+_C_OPT_CDDB_RD_FMT_WIN Windows-формат
+_C_OPT_CDDB_ST_ADDRESS Адреса:
+_C_OPT_CDDB_ST_EMAIL Адреса електронної пошти
+_C_OPT_CDDB_ST_NAME Назва:
+_C_OPT_CDDB_ST_PATH Шлях:
+_C_OPT_CDDB_ST_PORT Порт:
+_C_OPT_CDDB_ST_PROXYNAME Проксі:
+_C_OPT_CDDB_ST_PROXYPORT Порт:
+_C_OPT_CDDB_ST_PWD Пароль:
+_C_OPT_CDDB_ST_TIMEOUT Час очікування:
+_C_OPT_CDDB_ST_USERNAME Ім'я користувача:
+_C_OPT_CDDB3_CAPTION Локальна freedb
+_C_OPT_CON_FRM_FTT Ім'я файлу -> Тег
+_C_OPT_CON_FRM_TFF Файл зі списком тегів -> Тег
+_C_OPT_CON_FRM_TTF Тег -> Ім'я файлу
+_C_OPT_CON_ST_FNAME Ім'я файлу:
+_C_OPT_CON_ST_FS Формат рядка:
+_C_OPT_DIR Каталоги
+_C_OPT_DIR_COVER Каталог обкладинок
+_C_OPT_DIR_STARTUP Початковий каталог:
+_C_OPT_DIR_STARTUP_EMPTY Порожній
+_C_OPT_DIR_STARTUP_PREVIOUS Попередній
+_C_OPT_DIR_STARTUP_STANDARD Уподобання
+_C_OPT_EMPTY_HINT Виберіть один з вкладених пунктів
+_C_OPT_EXP_CAPTION Експорт
+_C_OPT_EXP_CHK_APPEND Додати дані
+_C_OPT_EXP_CHK_WRITEBOM Писати BOM в експортований файл
+_C_OPT_EXP_FRM_EXPORT Конфігурація експорту
+_C_OPT_EXP_RD_TRACK Номер
+_C_OPT_EXP_ST_FNAME Ім'я файлу для експорту:
+_C_OPT_EXP_ST_NAME Ім'я нової конфігурації експорту
+_C_OPT_FMT_CASE Зміна регістру
+_C_OPT_FMT_FRM_FTF Ім'я файлу -> Ім'я файлу
+_C_OPT_FMT_ST_BEGIN Слова починаються з/після будь-чого з:
+_C_OPT_FMT_ST_FNAME_NEW Шаблон нового імені файлу:
+_C_OPT_FMT_ST_FNAME_OLD Шаблон старого імені файлу:
+_C_OPT_FMT2 Замінити
+_C_OPT_FMT2_CASE Враховувати регістр
+_C_OPT_FMT2_COL_ORIGINAL Оригінал
+_C_OPT_FMT2_COL_REPLACE Замінити на
+_C_OPT_FMT2_ONLYWORDS Лише ціле слово
+_C_OPT_GEN_CAPTION Загальні
+_C_OPT_GEN_CHK_AUTOSAVE Зберігати теги курсорними клавішами/кнопкою миші
+_C_OPT_GEN_CHK_FOLDERSTART Починати з цього каталогу
+_C_OPT_GEN_CHK_GRID Лінії сітки та тонування рядків вмісту (зебра)
+_C_OPT_GEN_CHK_JUMPONEDIT Вибирати наступний під час редагування в вікні перегляду
+_C_OPT_GEN_CHK_KEEPFILETIME Не змінювати дату під час зміни файлів
+_C_OPT_GEN_CHK_KEEPMOVEDFILES Зберігати переміщені файли у списку файлів
+_C_OPT_GEN_CHK_MSG_ACTIONWARNINGS Під час попереджень про дії
+_C_OPT_GEN_CHK_MSG_CHANGE Після зміни
+_C_OPT_GEN_CHK_MSG_CUT Під час вирізання тегів
+_C_OPT_GEN_CHK_MSG_DEL Після видалення
+_C_OPT_GEN_CHK_MSG_DELETEFILE Під час видалення файлів
+_C_OPT_GEN_CHK_MSG_EXPORT Під час експорту тегів
+_C_OPT_GEN_CHK_MSG_PASTE Під час вставки тегів
+_C_OPT_GEN_CHK_MSG_REMOVETAGS Під час видалення тегів
+_C_OPT_GEN_CHK_MSG_SAVE Після збереження
+_C_OPT_GEN_CHK_MSG_TSIMPORTCOVER Під час імпорту обкладинок
+_C_OPT_GEN_CHK_MSG_UNSAVED Про не збережені зміни
+_C_OPT_GEN_CHK_PL Автоматично створювати список відтворення
+_C_OPT_GEN_CHK_RELPL Записи щодо робочого каталогу
+_C_OPT_GEN_CHK_AUTOCOMPLETE Автоматично заповнювати поля редагування
+_C_OPT_GEN_CHK_SELECTFILES Автоматично вибирати файли
+_C_OPT_GEN_CHK_SHOWEXPLORERCONTEXTMENU Показувати в контекстному меню Windows
+_C_OPT_GEN_CHK_SORTNATURAL Природний порядок сортування
+_C_OPT_GEN_CHK_TITLESHOWFOLDERPATH Показувати шлях поточного каталогу в заголовку вікна
+_C_OPT_GEN_FRM_GEN Загальні
+_C_OPT_GEN_FRM_MSG Сповіщати
+_C_OPT_GEN_FRM_PL Ім'я файлу списку відтворення
+_C_OPT_GEN_RD_PLALL з усіх файлів
+_C_OPT_GEN_RD_PLSEL з вибраних файлів
+_C_OPT_GEN_ST_FAVDIR Каталог уподобань:
+_C_OPT_GEN2_CAPTION Повідомлення
+_C_OPT_GENRES Визначені користувачем жанри
+_C_OPT_GENRES_HIDESTANDARD Показувати лише визначені користувачем жанри
+_C_OPT_GENRES_PREFEREXISTING Надавати перевагу жанрам із тегів у списку на панелі тегів
+_C_OPT_ID3_CHK_ISO88591 Кодувати теги в ISO-8859-1 замість UTF-16
+_C_OPT_ID3_CHK_LEADINGZEROS Додавати нулі до номерів треків (01, 02, ...)
+_C_OPT_ID3_CHK_LENGTHDEPENDEND ID3v2 лише, якщо не вистачає ID3v1
+_C_OPT_ID3_CHK_V1 ID3v1
+_C_OPT_ID3_CHK_V2 ID3v2
+_C_OPT_ID3_FRM_READ Читати
+_C_OPT_ID3_FRM_REMOVE Видаляти
+_C_OPT_ID3_FRM_WRITE Зберігати
+_C_OPT_LIB Бібліотека
+_C_OPT_LIB_CHK_ENABLE Увімкнути бібліотеку
+_C_OPT_LIB_CHK_RESTRICT Використовувати лише ці каталоги
+_C_OPT_LIB_CLEANUP Очищення бібліотеки
+_C_OPT_MAPPING Заповнення полів
+_C_OPT_MAPPING_FRM Заповнення полів, вказане користувачем 
+_C_OPT_MAPPING_SOURCE Джерело
+_C_OPT_MAPPING_TARGET Ціль
+_C_OPT_PLAYLIST_CAPTION Список відтворення
+_C_OPT_PLAYLIST_EXTENDED Писати розширену інформацію
+_C_OPT_PLAYLIST_NOFOLDERS Не створювати каталоги
+_C_OPT_PLAYLIST_SHOWDLG Показувати діалог підтвердження імені файлу
+_C_OPT_TAG Теги
+_C_OPT_TAGS_COVER Ім'я файлу обкладинки:
+_C_OPT_TAGS_EXT Режим збереження для << та >> у вікні додаткових тегів:
+_C_OPT_TAGS_FILEFILTER Фільтр вхідних файлів:
+_C_OPT_TAGS_MUSICBRAINZ_COVERSIZE Розмір обкладинки MusicBrainz
+_C_OPT_TAGS_NOIMG Не показувати перше зображення з каталогу як обкладинку
+_C_OPT_TOOLS Інструменти
+_C_OPT_TOOLS_CHK_DEFAULT Запускати цю програму подвійним кліком на елементі:
+_C_OPT_TOOLS_CHK_MULTIPLEINSTANCES для всіх вибраних файлів
+_C_OPT_TOOLS_COL_PARAM Параметр
+_C_OPT_TOOLS_COL_PATH Шлях
+_C_OPT_TOOLS_EDIT Налаштувати інструмент.  Ім'я і шлях обов'язкові.
+_C_OPT_TOOLS_FRM_DEFAULT Стандартна програма
+_C_OPT_TOOLS_FRM_TOOLS Інструменти
+_C_PLAYLIST_GENERATOR Генератор списків відтворення
+_C_PLAYLIST_GENERATOR_FORMAT Формат імен файлів списків відтворення:
+_C_PLAYLIST_GENERATOR_PARTITION Розділяти файли списків за:
+_C_PLAYLIST_GENERATOR_PREVIEW Попередній перегляд:
+_C_PLAYLIST_GENERATOR_STATUS_BUSY Створення ...
+_C_PLAYLIST_GENERATOR_STATUS_ONE Списків відтворення - {1}
+_C_PLAYLIST_GENERATOR_STATUS_MANY Списків відтворення - {1}
+_C_OVERWRITE Перезаписати
+_C_RENAME Перейменувати
+_C_TEXT Текст
+_C_TT_CDDB База даних freedb...
+_C_TT_CDDBLOCAL Локальна база freedb...
+_C_TT_CLOSE Закрити
+_C_TT_DIR Змінити каталог...
+_C_TT_EDIT_REDO Повторити
+_C_TT_EDIT_REPEAT Повторити
+_C_TT_EDIT_UNDO Скасувати
+_C_TT_EXPORT Експорт
+_C_TT_FAVDIR Каталог уподобань
+_C_TT_FILE_ADD Додати каталог...
+_C_TT_FILE_COPY Копіювати в...
+_C_TT_FILE_DELETE Видалити...
+_C_TT_FILE_MOVE Перемістити в...
+_C_TT_FILE_PLAY Відтворити
+_C_TT_FILE_PROPERTIES Властивості...
+_C_TT_FILE_RENAME Перейменувати
+_C_TT_FTF Ім'я файлу -> Ім'я файлу
+_C_TT_FTT Ім'я файлу -> Тег
+_C_TT_HELP Зміст довідки
+_C_TT_OPT Вікно параметрів...
+_C_TT_PLALL Створити список відтворення зі всіх файлів
+_C_TT_PLSEL Створити список відтворення з вибраних файлів
+_C_TT_REFRESH Оновити вікно списку файлів
+_C_TT_REMOVE Видалити тег
+_C_TT_SAVE Зберегти
+_C_TT_TFF Файл зі списком тегів -> Тег
+_C_TT_TTF Тег -> Ім'я файлу
+_C_TT_TTT Тег -> Тег
+_C_TT_UPDIR Вгору
+_C_WIZARD_TRACKS Майстер автоматичної нумерації
+_C_WIZARD_TRACKS_BEGIN Починати з номера треку:
+_C_WIZARD_TRACKS_DESC Призначити номери доріжок та дисків
+_C_WIZARD_TRACKS_DISC_BEGIN Починати з номера диска:
+_C_WIZARD_TRACKS_DISC_LEADINGZEROS Додавати нулі для номерів дисків (01, 02, ...)
+_C_WIZARD_TRACKS_DISC_SAVETOTAL Зберігати загальну кількість дисків
+_C_WIZARD_TRACKS_DISCNUMBER Номер диска
+_C_WIZARD_TRACKS_NEXTDISC_FIELD Наступний диск після зміни
+_C_WIZARD_TRACKS_NEXTDISC_FOLDER Наступний диск після зміни каталогу
+_C_WIZARD_TRACKS_RESETDISC_FIELD Починати перелік заново після зміни
+_C_WIZARD_TRACKS_RESETFOLDERS Починати перелік заново для кожного каталогу
+_C_WIZARD_TRACKS_RESETTRACK_NEXTDISC Починати перелік заново для кожного диска
+_C_WIZARD_TRACKS_SAVETOTAL Зберігати загальну кількість треків
+_C_WIZARD_TRACKS_TRACKNUMBER Номер треку
+_M_ERR_CANCEL Процес скасовано.
+_M_ERR_CDDB_CD Помилка читання компакт-диска
+_M_ERR_CDDB_CONNECT Помилка з’єднання з сервером: {1}
+_M_ERR_CDDB_NOENTRY Немає відповідних даних для ідентифікатора freedb-ID {1}.
+_M_ERR_CDDB_NOENTRYINLOCALBD Немає відповідних даних для ідентифікатора freedb-ID {1} у локальній БД \"{2}\".
+_M_ERR_CDDB_PARSER Результатів немає.
+_M_ERR_CDDB_READ Помилка читання даних з {1}
+_M_ERR_CONFIGURATION Не вдалося імпортувати конфігурацію.
+_M_ERR_COPY Не вдалося скопіювати вибрані файли!
+_M_ERR_DELETE Не вдалося видалити вибрані файли!
+_M_ERR_FILECREATE Файл \"{1}\" не вдалося створити.
+_M_ERR_FILEDELETE Файл \"{1}\" не вдалося видалити.
+_M_ERR_FILENAMEALREADYEXISTS Файл з іменем \"{1}\" вже існує!
+_M_ERR_FILENAMEALREADYEXISTS2 Файл \"{1}\" не було перейменовано.
+_M_ERR_FILEOPABORTED Вміст поточного каталогу змінився .\n\nПерезавантажити поточний каталог?
+_M_ERR_FILEOPEN Файл \"{1}\" не вдалося відкрити.
+_M_ERR_FILEREADONLY Файл \"{1}\" має атрибут лише читання.\n\nЧи повинна програма Mp3tag вимкнути захист від запису цього і наступних подібних файлів?
+_M_ERR_FOLDERCANNOTBEACCESSED Помилка доступу.\n\nНеможливо отримати доступ до каталогу \"{1}\".
+_M_ERR_INVALID_FILENAME Вкажіть правильне ім'я файлу.
+_M_ERR_INVALID_FTF_FS Рядок \"{1}\" не є правильним рядком формату імен файлів.
+_M_ERR_INVALID_TOKEN {1}:\nНаступні символи не можуть використовуватися в імені файлу:\n\\ / : * ? \" < > |\n\nВиправити автоматично?
+_M_ERR_MOVE Не вдалося перемістити вибрані файли!
+_M_ERR_ONLINE_NOTFOUND На жаль, за вашим запитом нічого не знайдено.
+_M_ERR_OPT_CDDB_NOADDRESS Вкажіть адресу сервера freedb.
+_M_ERR_OPT_CDDB_NOEMAIL Вкажіть адресу своєї електронної пошти: 'Параметри>Джерела тегів>База даних freedb>Сервер'. Її буде використано для отримання доступу до сервера freedb.
+_M_ERR_OPT_CDDB_NONAME Вкажіть правильне ім'я для конфігурації.
+_M_ERR_OPT_CDDB_NOPORT Вкажіть номер порту сервера freedb.
+_M_ERR_PARSELINE Не вдалося проаналізувати рядок {1}.
+_M_ERR_PLAY Не вдалося відкрити файл \"{1}\" для відтворення!
+_M_ERR_READ_FILE Не вдалося відкрити файл \"{1}\" для читання.
+_M_ERR_RENAME_FILE Файл \"{1}\" не вдалося перейменувати в \"{2}\".
+_M_ERR_RETRY Повторити?
+_M_ERR_TL_NOTAGS Не знайдено збігів записів у файлі \"{1}\".
+_M_ERR_WRITE_FILE Не вдалося відкрити файл \"{1}\" для запису.
+_M_ERR_YN \n\nПродовжити?
+_M_LOG_FMT_FNAME {1} з {2} файлів перейменовано.\n
+_M_LOG_FMT_TAG Відформатовано теги в {1} з {2} файлів.\n
+_M_LOG_FTF {1} з {2} файлів перейменовано.
+_M_LOG_FTT Теги {1} з {2} файлів виведено і збережено.
+_M_LOG_PL_ALL Створено список відтворення \"{1}\" з усіх ({2}) файлів.
+_M_LOG_PL_SEL Створений список відтворення \"{1}\" з вибраних ({2}) файлів.
+_M_LOG_REMOVE Видалений тег з файлу \"{1}\".
+_M_LOG_REMOVED Видалені теги {1} з {2} файлів.
+_M_LOG_REMOVE_NOTAG Немає тегу у файлі \"{1}\".
+_M_LOG_SAVE Тег збережений у файл \"{1}\".
+_M_LOG_SAVED Теги збережені в {1} з {2} файлів.
+_M_LOG_TFF Теги імпортовано з \"{1}\" і збережено в {2} з {3} файлів.
+_M_LOG_TFF_S Теги імпортовано з \"{1}\" до одного файлу.
+_M_LOG_TTF {1} з {2} файлів перейменовано.
+_M_STAT_PLAY Відтворення файлу \"{1}\"...
+_M_STR_ACTION_ADJUSTCOVER Налаштувати обкладинку
+_M_STR_ACTION_ADJUSTCOVER_FORMAT Формат
+_M_STR_ACTION_ADJUSTCOVER_FORMATKEEP Оригінал
+_M_STR_ACTION_ADJUSTCOVER_QUALITY Якість
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_BEST Найкраща
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_HIGH Висока
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_LOW Низька
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_MEDIUM Середня
+_M_STR_ACTION_ADJUSTCOVER_SIZE Макс. розмір
+_M_STR_ACTION_CODEPAGE Перетворити кодову сторінку
+_M_STR_ACTION_CODEPAGE_DESC Кодова сторінка
+_M_STR_ACTION_EXPORTCOVER Експортувати обкладинку в файл
+_M_STR_ACTION_EXPORTCOVER_DUPES Експортувати дубльовані обкладинки
+_M_STR_ACTION_EXPORTCOVER_TYPES Експортувати лише обкладинки типу
+_M_STR_ACTION_FORMAT Відформатувати поле тегу
+_M_STR_ACTION_GUESS Імпортувати поля тегів
+_M_STR_ACTION_GUESSPATTERN Формат-рядок
+_M_STR_ACTION_GUESSSOURCE Формат оригіналу
+_M_STR_ACTION_IMPORTCOVER Імпортувати обкладинку з файлу
+_M_STR_ACTION_IMPORTCOVER_FS Формат-рядок для імені файлу обкладинки:
+_M_STR_ACTION_IMPORTCOVER_DELETE Видалити обкладинку
+_M_STR_ACTION_IMPORTCOVER_TYPE Імпортувати обкладинку як:
+_M_STR_ACTION_IMPORTTEXT Імпортувати текстовий файл
+_M_STR_ACTION_MERGEDUPLICATEFIELDS Об'єднати дублікати полів тегів
+_M_STR_ACTION_PLAYLIST Генерувати списки відтворення
+_M_STR_ACTION_REGEXP Замінити з регулярним виразом
+_M_STR_ACTION_REGEXP_EXP Регулярний вираз
+_M_STR_ACTION_REGEXP_MATCH Замінити збіги на
+_M_STR_ACTION_REMOVEDUPES Видалити дублікати полів тегів
+_M_STR_ACTION_REMOVEDUPES_ONLYSAMECONTENT Лише дублікати полів з однаковим вмістом
+_M_STR_ACTION_REM Видалити поля
+_M_STR_ACTION_REM_DESC Видалити наступні поля (розділені крапкою з комою):
+_M_STR_ACTION_REM_EX Видалити всі поля, крім
+_M_STR_ACTION_REM_EX_DESC Залишити наступні поля (розділені крапкою з комою):
+_M_STR_ACTION_SETCOVERPROPERTIES Встановити властивості обкладинки
+_M_STR_ACTION_SETCOVERPROPERTIES_DESC Опис обкладинки:
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER Встановити для:
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER_ALL Всі обкладинки
+_M_STR_ACTION_SETCOVERPROPERTIES_TYPE Тип обкладинки:
+_M_STR_ACTION_SPLITFIELDS Розділити поля роздільником
+_M_STR_ACTIONGROUP_CHANGED Змінено конфігурацію груп дій.\r\n\r\nЗберегти зміни?
+_M_STR_ACTIONGROUP_NAME Назва групи дій
+_M_STR_ALBUM Альбом
+_M_STR_ALBUMARTIST Виконавець альбому
+_M_STR_ALL_FILEDLGFILTER Всі файли (*.*)|*.*||
+_M_STR_ARTIST Виконавець
+_M_STR_AUTHOR Автор
+_M_STR_AUTOSIZECOLUMNS Автоматичний розмір стовпців
+_M_STR_BACK < Назад
+_M_STR_BROWSE_COPY Копіювати в:
+_M_STR_BROWSE_MOVE Перемістити в:
+_M_STR_BROWSE_TEXT Виберіть каталог, який містить аудіофайли.
+_M_STR_BYTES Байт
+_M_STR_CDDB_CD Читання компакт-диска
+_M_STR_CDDB_CONNECT підключення до {1}...
+_M_STR_CDDB_CONNECTED  підключено!
+_M_STR_CDDB_IDXDB_ENTRIES записів бази даних створено
+_M_STR_CDDB_RETRIEVE Отримання інформації
+_M_STR_COLUMNFILENAME Ім'я файлу
+_M_STR_COLUMNPATH Шлях
+_M_STR_COLUMNUSEDCOLS показувати
+_M_STR_COMBO_HOLD < зберегти >
+_M_STR_COMBO_REMOVE < очистити >
+_M_STR_COMBO_USER < вказати >
+_M_STR_COMMENT Коментар
+_M_STR_COMPOSER Композитор
+_M_STR_COPYOF Копія {1}
+_M_STR_COVER Обкладинка
+_M_STR_COVER_ADD Зберегти наявні обкладинки?
+_M_STR_COVER_CORRECTAR Виправити співвідношення сторін
+_M_STR_COVER_SETDESC Опис обкладинки...
+_M_STR_COVER_SETTYPE Тип обкладинки
+_M_STR_COVERVARIES Різні обкладинки
+_M_STR_CUSTOMIZE Налаштувати...
+_M_STR_CUSTOMLISTVALUES Власний список значень
+_M_STR_DAY день
+_M_STR_DAYS днів
+_M_STR_DEFAULTVALUE Стандартне значення
+_M_STR_DESCRIPTION Опис
+_M_STR_DISCID Ідентифікатор CDDB ID
+_M_STR_DISCOGS_OAUTH_PIN Введіть код авторизації Discogs
+_M_STR_DISCNUMBER Номер диска
+_M_STR_DONTSHOWAGAIN Більше не показувати це повідомлення
+_M_STR_ERR_CDDB_NOENTRYSELECTED Виберіть пункт.
+_M_STR_EXPORT Експорт...
+_M_STR_EXPORT_DELETE Видалити конфігурацію експорту \"{1}\"?
+_M_STR_EXPORT_FILEDLGTITLE Виберіть файл для експорту
+_M_STR_EXPORT_MULTIPLE Один файл на кожен каталог
+_M_STR_EXPORT_SHOWEXPORTFILE \n\nПоказати експортований файл негайно?
+_M_STR_EXP_MSG Інформація про {2} шт. файлів було експортовано у файл '{1}'.
+_M_STR_FIELD Поле:
+_M_STR_FIELDSIZE Розмір поля
+_M_STR_FIELDTYPE Тип
+_M_STR_FIELDROWS Рядків
+_M_STR_FILE Файл
+_M_STR_FILEDELETE Видалити всі вибрані файли?
+_M_STR_FILEMODIFIED Змінений
+_M_STR_FILESIZE Розмір
+_M_STR_FILTER Фільтр:
+_M_STR_FMT_CAPITAL Кожне Слово З Великої
+_M_STR_FMT_HIGH ВСІ ВЕЛИКІ
+_M_STR_FMT_LOW всі маленькі
+_M_STR_FMT_SENTENCE Враховувати пропозиції
+_M_STR_FREEDBCREATEINDEX Створити локальну індексну базу даних freedb?\n\nЦе може тривати кілька хвилин.
+_M_STR_FREEDB_SEARCH Інтернет-пошук за базами даних freedb
+_M_STR_GENRE Жанр
+_M_STR_GENRES Жанри
+_M_STR_HIDE Приховати
+_M_STR_IMPORT Імпорт...
+_M_STR_ITEMALREADYEXISTS Елемент з таким іменем вже існує, перезаписати?
+_M_STR_LANGUAGE Мова
+_M_STR_M3U_FILEDLGFILTER Підтримувані типи (*.m3u; *.m3u8; *.cue)|*.m3u; *.m3u8; *.cue||
+_M_STR_MANAGE Керування...
+_M_STR_MANAGEHISTORY Керування історією
+_M_STR_METADATA Метадані
+_M_STR_MOVEDOWN Нижче
+_M_STR_MOVEUP Вище
+_M_STR_MPEGBITRATE Бітрейт
+_M_STR_MPEGFREQUENCY Частота
+_M_STR_MPEGLENGTH Тривалість
+_M_STR_MPEGMODE Режим
+_M_STR_MPEGVERSION Кодек
+_M_STR_MSGCUT Видалити теги з вибраних файлів і скопіювати їх в буфер обміну?
+_M_STR_MSGPASTE Вставити вміст буфера обміну в теги вибраних файлів?
+_M_STR_MSGREMOVE Видалити теги з вибраних файлів?
+_M_STR_NAME Ім'я
+_M_STR_NETWORKING Параметри мережі
+_M_STR_NEXT Далі >
+_M_STR_NOACTION - Дії відсутні -
+_M_STR_NOACTIONENABLED Позначте принаймні один набір дій, щоб активувати використання цієї функції.
+_M_STR_NUMERIC Числове поле
+_M_STR_OPT_CDDB_BROWSE_LOCALPATH Вкажіть робочий каталог для локальної бази даних freedb.
+_M_STR_OPT_CDDB_PROCEED Всі наявні сервери будуть видалені!\n\nПродовжити?\n
+_M_STR_OPTIMIZEFLAC Оптимізувати FLAC
+_M_STR_OPTIMIZEMP4 Оптимізувати MP4
+_M_STR_OPTS_ALWAYS завжди
+_M_STR_OPTS_ASK запитувати
+_M_STR_OPTS_NEVER ніколи
+_M_STR_PLNAME Список відтворення -> Ім'я файлу
+_M_STR_PL_CONFIRM Створити список відтворення з цим іменем
+_M_STR_PL_SAVEFILTER Списки відтворення (*.m3u)|*.m3u|Списки відтворення Юнікод (*.m3u8)|*.m3u8||
+_M_STR_PREFERTAGVALUES Надавати перевагу значенням із тегів у списку на панелі тегів
+_M_STR_PRESET_SELECTION Створити шаблон для виділеного...
+_M_STR_PRESETS Шаблони
+_M_STR_PREVIEW Перегляд
+_M_STR_PROPERTIES Властивості {1}
+_M_STR_QUICK Швидко
+_M_STR_RECURSE Підкаталоги
+_M_STR_REST Інше
+_M_STR_SAVE_NOT < не асоційовано >
+_M_STR_SAVECONFIG Ваші параметри збережено в '{1}'.\n\nЩоб оновити їх, розпакуйте файл в\n\"{2}\".
+_M_STR_SAVECONFIG_FILEDLGFILTER Файли конфігурації (*.zip)|*.zip||
+_M_STR_SAVECONFIG_FILEDLGTITLE Зберегти конфігурацію в...
+_M_STR_SAVEIMAGE Зберегти зображення в тег
+_M_STR_SAVEIMAGEDIRECTORY Зберегти зображення на диск
+_M_STR_SAVESELECTION Зберегти вибране...
+_M_STR_SB_ABORTED Скасовано
+_M_STR_SB_ACTION Обробка файлу... {1} з {2}
+_M_STR_SB_CLEANUPDATABASE Обробка файлів ... {1} з {2} ({3} очищено)
+_M_STR_SB_CLEANUPDATABASE_BINARIES Очистити відсутні бінарні файли
+_M_STR_SB_CLEANUPDATABASE_COVERS Очистити відсутні обкладинки
+_M_STR_SB_CLEANUPDATABASE_NONLIBFILES Очистити файли, відсутні в бібліотеці
+_M_STR_SB_EXPORTTAGS Експортування інформації тегу...  {1} з {2}
+_M_STR_SB_FILTER Фільтрування ...
+_M_STR_SB_LOADTAGS Читання тегів... {1} з {2}
+_M_STR_SB_READDIRECTORY Читання каталогу
+_M_STR_SB_REMOVETAGS Видалення тегів... {1} з {2}
+_M_STR_SB_RENAMEFILES Перейменування файлу... {1} з {2}
+_M_STR_SB_WRITETAGS Запис тегів... {1} з {2}
+_M_STR_SHOWCHOOSEDLG Показувати діалог вибору
+_M_STR_SEARCHBY Шукати в:
+_M_STR_SEARCHTEXT Текст:
+_M_STR_SEPARATOR Роздільник
+_M_STR_SHOW Показати
+_M_STR_SIZE_FULL Повне
+_M_STR_SIZE_LARGE Велике
+_M_STR_SIZE_LARGER Величезне
+_M_STR_SIZE_MEDIUM Середнє
+_M_STR_SIZE_NORMAL Звичайне
+_M_STR_SIZE_SMALLER Маленьке
+_M_STR_SIZE_SMALL Невелике
+_M_STR_SIZE_TINY Дрібне
+_M_STR_SNA Область сповіщень
+_M_STR_SNA_SHOW Завжди показувати піктограму в області сповіщень
+_M_STR_SNA_SHOWMIN Згортати в область сповіщень
+_M_STR_STRIPCHAPTERSMP4 Розділити розділи MP4
+_M_STR_TAG_COPIED Теги {1} файлів скопійовано в буфер обміну.
+_M_STR_TAG2 Тег
+_M_STR_TAGFIELDS_REMOVE Видалити поле
+_M_STR_TAGFIELDS_REMOVEALL Видалити всі поля...
+_M_STR_TAGFIELDS_REMOVEALLMSG Видалити усі поля зі списку?
+_M_STR_TAGFIELDS_RESET Скинути поля...
+_M_STR_TAGFIELDS_RESETMSG Дійсно скинути вміст усіх полів?
+_M_STR_TAGPANEL Панель тегів
+_M_STR_TAGPANEL_COVER Обкладинка
+_M_STR_TAGPANEL_DIRECTORY Показувати поле "Каталог"
+_M_STR_TAGPANEL_DUPLICATEFIELD {1} вже використовується для іншого поля, дублювання імен полів забороняється.
+_M_STR_TAGLIST_FILEDLGFILTER Списки тегів ({1})
+_M_STR_TAGLIST_FILEDLGTITLE Вибір списку тегів
+_M_STR_TAGSOURCES Джерела тегів
+_M_STR_THISALBUMON Цей альбом на {1}
+_M_STR_TITLE Назва
+_M_STR_TRYAGAIN Спробувати ще раз?
+_M_STR_TTF Тег -> Ім'я файлу
+_M_STR_UNSAVED Зберегти зміни?
+_M_STR_UPDATE_FRM Оновлення
+_M_STR_UPDATE_OPT_CHECK Перевіряти оновлення під час запуску
+_M_STR_UPDATE_OPT_CHECK_BETA З бета-версіями включно
+_M_STR_UPDATE_OPT_CHECK_RELEASENOTES Показувати примітки до випуску для нових версій
+_M_STR_UPDATEAVAILABLE Доступна нова версія програми {1}!\n\nЗавантажити оновлення з {2} негайно?
+_M_STR_UPDATENOTAVAILABLE Ви використовуєте останню версію програми {1}.\n\nОновлення відсутні.
+_M_STR_URL https://www.mp3tag.de/en/download.html
+_M_STR_UTILS Функції
+_M_STR_VALUE Значення
+_M_STR_VERSION Версія
+_M_STR_YEAR Рік
+_M_TP_CDDB_LOCALPATH Вкажіть каталог локальної бази даних freedb
+_M_TP_CDDB_SITES Оновити список серверів freedb через Інтернет
+_M_TP_CVR_CLIPBOARD Вставити обкладинку
+_M_TP_CVR_CLIPBOARD_COPY Копіювати обкладинку
+_M_TP_CVR_CLIPBOARD_CUT Вирізати обкладинку
+_M_TP_CVR_DEL Видалити обкладинку
+_M_TP_CVR_NEW Додати обкладинку...
+_M_TP_CVR_SAVE Видобути обкладинку...
+_M_TP_DUPLICATE Дублювати
+_M_TP_EXP_DEL Видалити
+_M_TP_EXP_EDIT Редагувати
+_M_TP_EXP_FILE Вибір файлу для експорту
+_M_TP_EXP_HLP Показати контекстну довідку
+_M_TP_EXP_LOAD Завантажити конфігурацію
+_M_TP_EXP_NEW Створити
+_M_TP_EXP_SAVE Зберегти конфігурацію
+_M_TP_GEN_DIR Вибір каталогу
+_M_TP_TAG_DEL Видалити поле
+_M_TP_TAG_EDIT Редагувати поле...
+_M_TP_TAG_NEW Додати поле...
+_M_TS_ADDINFO Додаткова інформація
+_M_TS_MULTIPLEVALUES кілька значень
+_M_TS_RELEASE Випуск
+_M_TS_TRACKS Треки
+_M_UNDO_CANNOTREDO Не вдалося повторити {1}
+_M_UNDO_CANNOTUNDO Не вдалося скасувати {1}
+_M_UNDO_CDDB База даних freedb
+_M_UNDO_DIRECTORYCREATE Створити каталог
+_M_UNDO_DIRECTORYMOVE Перемістити каталог
+_M_UNDO_FORMAT Формат
+_M_UNDO_FTF Ім'я файлу -> Ім'я файлу
+_M_UNDO_FTT Ім'я файлу -> Тег
+_M_UNDO_REMOVEFILE Прибрати
+_M_UNDO_RENAME Перейменувати
+_M_UNDO_TAGCHANGE Змінити тег
+_M_UNDO_TAGREMOVE Видалити тег
+_M_UNDO_TAGSAVE Зберегти тег
+_M_UNDO_TFF Файл зі списком тегів -> Тег
+_M_UNDO_TTF Тег -> Ім'я файлу

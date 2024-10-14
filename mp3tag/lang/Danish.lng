@@ -1,0 +1,729 @@
+﻿LANGAUTHOR Erik Marcussen 
+LANGCONTACT erik.marcussen.dk@gmail.com
+LANGVERSION 3.22
+LANGCODE_639_1 da
+LANGNAME Danish
+LANGNAMELOC Dansk
+SLangCancel &Annullér
+SLangOk &OK
+SLangErrCatch Runtime Error\n\nFil:\t{1}\nLinie:\t{2}\n\nProgrammet opdagede en uventet undtagelse, og er i en udefineret tilstand. Luk programmet og send fil\n\n{3}\n\nog en detaljeret fejlbeskrivelse til vores support.\n\nemail: support@mp3tag.de
+SLangErrCheck Runtime Error\n\nFil:\t{1}\nLinie:\t{2}\nTerm:\t{3}\nKode:\t0x{4}\n\nProgrammet opdagede en uventet undtagelse, og er i en udefineret tilstand. Luk programmet og send fil\n\n{5}\n\nog en detaljeret fejlbeskrivelse til vores support.\n\nemail: support@mp3tag.de
+SLangErrDriveCannotBeAccessed Kan ikke få adgang til drev {1}.\n\n» Tjek drevet.
+SLangErrFileCannotBeAccessed Kan ikke få adgang til filen {1}.\n\n» Tjek drevet.
+SLangErrFileCannotBeDeleted Filen {1} kan ikke slettes.\n\n» Tjek drevet, og tjek at ingen andre processer bruger filen.
+SLangErrFolderCannotBeAccessed Kan ikke få adgang til mappen {1}.\n\n» Tjek drevet.
+SLangErrFolderCannotBeDeleted Mappen {1} kan ikke slettes.\n\n» Tjek drevet, og tjek at ingen andre processer bruger mappen.
+SLangErrHelpBrowserIsNotAvailable Mp3tag kunne ikke vise hjælpefilerne i din standard-browser.
+SLangErrHelpSystemIsNotAvailable Hjælpesystemet er ikke tilgængelig.\n\n» reinstaller {1}.
+SLangErrHelpTopicIsNotAvailable Hjælpeemnet er ikke tilgængelig.\n\n» Kontakt vores support.\n\nemail: support@mp3tag.de
+SLangErrNotEnoughFreeDiskSpace Der er ikke nok plads på enheden {1}.\n\n» Tjek at der er mindst {2} ledig plads.
+SLangErrRegistryCannotBeAccessed Fejl ved læsning af data\n\nKan ikke tilgå Windows register.
+SLangMsgItemExistsAlready Et element med denne beskrivelse findes allerede.\n\n» Brug en anden beskrivelse.
+SLangMsgFirstSteps Brug lidt tid på de første trin.
+SLangMsgShutdownInfo Vent mens {1} lukkes.
+SLangWrnAppIsAlreadyRunning Et tilfælde af programmet kører allerede.
+SLangWrnAppHasToBeRestarted Mp3tag skal genstartes før ændringerne kan træde i kraft.\n\nØnsker du at genstarte Mp3tag nu?
+SLangWrnNameContainsInvalidCharacters Beskrivelsen indeholder ugyldige tegn.\n\n» Brug en anden beskrivelse.
+SLangWrnStartLogging Du har startet {1} med FLOG1 kommandolinie parameteren. Parameteren bruges til debugging.\n\nVil du starte logging funktionen?
+_C_ABORT Afbryd
+_C_ABORTING Afbryder...
+_C_APP_ST_ALBUM &Album
+_C_APP_ST_ARTIST &Kunstner
+_C_APP_ST_COMMENT K&ommentar
+_C_APP_ST_FOLDER &Mappe
+_C_APP_ST_GENRE &Genre
+_C_APP_ST_TITLE &Titel
+_C_APP_ST_TRACK Spo&r
+_C_APP_ST_YEAR &År
+_C_CANCEL Annullér
+_C_CANCELING Fortryder...
+_C_CHECK Kontrollér
+_C_CLOSE Luk
+_C_DLG_CDDBCONFIRM_CAPTION Liste af søgeresultater...
+_C_DLG_CDDBCONFIRM_CHK_DISCID Kopiér disk-ID til kommentarfelt
+_C_DLG_CDDBCONFIRM_CHK_DISCID2 Kopiér disk-ID til DISCID-felt
+_C_DLG_CDDBCONFIRM_CHK_SAMPLER Indsamler...
+_C_DLG_CDDBCONFIRM_CHK_SORT Foreslå sortering
+_C_DLG_CDDBCONFIRM_ST_INFO Mere end ét resultat blev fundet.\nVælg et:
+_C_DLG_CDDBCONFIRM_ST_INFO2 Der er {2} søgeresultater fra databasen {1}.\nVælg et:
+_C_DLG_CDDBCONFIRM_STC_TOP Juster tag information
+_C_DLG_CDDBINPUT_CAPTION Indtast Freedb-ID
+_C_DLG_CDDBINPUT_ST_CATEGORY Kategori:
+_C_DLG_CDDBINPUT_ST_ID Freedb-ID:
+_C_DLG_CDDBSTYLE_CAPTION Freedb
+_C_DLG_CDDBSTYLE_RD_CDROM bestem udfra indsat &lyd-CD
+_C_DLG_CDDBSTYLE_RD_ENTER Indtast
+_C_DLG_CDDBSTYLE_RD_MP3 bestem ud fra valgte filer
+_C_DLG_CDDBSTYLE_RD_SEARCH bestem via websøgning
+_C_DLG_CDDBSTYLE_RD_SEARCHLOCAL bestem via tekstsøgning
+_C_DLG_CDDBSTYLE_STC_TOP Freedb ID...
+_C_DLG_COPYFORMAT Copy as Text
+_C_DLG_COPYFORMAT_BTN_COPY C&opy
+_C_DLG_COLUMNS_CAPTION Kolonner
+_C_DLG_COLUMNS_TOP Redigér visning af kolonner
+_C_DLG_TAGS Redigér tag-info
+_C_DLG_TTF_TOP Vælg format-streng
+_C_FIND_BTN_FIND &Find
+_C_FIND_CAPTION Find
+_C_FIND_CHK_CASESENSITIVE &Case Sensitive
+_C_FIND_COLUMN_FIELD Field
+_C_FIND_COLUMN_MATCH Match
+_C_FIND_STATUS_BUSY Searching...
+_C_FIND_STATUS_MANY_MANY Found {1} matches in {2} files.
+_C_FIND_STATUS_MANY_ONE Found {1} matches in {2} file.
+_C_FIND_STATUS_NONE No matches found.
+_C_FIND_STATUS_ONE_ONE Found {1} match in {2} file.
+_C_FIND_STC_RESULT &Result:
+_C_FIND_STRATEGY_BEGINSWITH Begins With
+_C_FIND_STRATEGY_CONTAINS Contains
+_C_FIND_STRATEGY_ENDSWITH Ends With
+_C_FIND_STRATEGY_MATCHESCONTENT Matches Content
+_C_FIND_STRATEGY_MATCHESWORD Matches Word
+_C_FIND_STRATEGY_REGEX Regular Expression
+_C_HELP &Hjælp
+_C_MNU_ACTIONS &Handling\tALT+6
+_C_MNU_CON &Konvertér
+_C_MNU_CON_FTF F&ilnavn -> Filnavn\tALT+3
+_C_MNU_CON_FTT &Filnavn -> Tag\tALT+2
+_C_MNU_CON_TFF Te&kstfil -> Tag\tALT+4
+_C_MNU_CON_TTF &Tag -> Filnavn\tALT+1
+_C_MNU_CON_TTT T&ag -> Tag\tALT+5
+_C_MNU_COVER_ADD Tilføj omslag...\tCtrl+Alt+A
+_C_MNU_EDIT &Redigér
+_C_MNU_EDIT_COPY K&opiér\tCtrl+C
+_C_MNU_EDIT_COPY_FORMAT Copy as Text...
+_C_MNU_EDIT_CUT Kli&p\tCtrl+X
+_C_MNU_EDIT_FIND &Find...\tCtrl+F
+_C_MNU_EDIT_INVERTSELECTION &Invertér valg\tCtrl+Shift+A
+_C_MNU_EDIT_NEXT Vælg &næste fil\tCtrl+N
+_C_MNU_EDIT_PASTE &Indsæt\tCtrl+V
+_C_MNU_EDIT_REDO &Gentag\tCtrl+Y
+_C_MNU_EDIT_REPEAT &Gentag\tCtrl+Y
+_C_MNU_EDIT_SELECT Vælg &alle filer\tCtrl+A
+_C_MNU_EDIT_UNDO &Fortryd\tCtrl+Z
+_C_MNU_EDIT_UNSELECTALL &Fravælg alle\tCtrl+U
+_C_MNU_EXTRA &Værktøj
+_C_MNU_EXTRA_OPTIONS &Indstillinger...\tCtrl+O
+_C_MNU_EXTRA_RESET_EDITS Genopret alle &inputfelter\tCtrl+B
+_C_MNU_EXTRA_SET_EDITS Standardværdier i inputfelterne\tCtrl+W
+_C_MNU_EXTRA_TRACKWIZARD Autonummereringsguide...\tCtrl+K
+_C_MNU_FILE &Fil
+_C_MNU_FILE_ADD Tilføj mappe...
+_C_MNU_FILE_CDDB Freedb...\tCtrl+I
+_C_MNU_FILE_CDDBLOCAL Freedb (Lokal)...\tCtrl+L
+_C_MNU_FILE_COPY Kopiér...
+_C_MNU_FILE_DELETE Slet...
+_C_MNU_FILE_DIR Æn&dr mappe...\tCtrl+D
+_C_MNU_FILE_EXIT &Afslut\tAlt+F4
+_C_MNU_FILE_EXPORT &Eksportér\tCtrl+E
+_C_MNU_FILE_FAVDIR &Favoritmapper\tCtrl+M
+_C_MNU_FILE_MOVE Flyt...
+_C_MNU_FILE_OPENFOLDER Åbn i Stifinder
+_C_MNU_FILE_OPENCONFIGFOLDER Åbn konfigurationsmappen
+_C_MNU_FILE_PLALL S&pilleliste (alle filer)\tCtrl+P
+_C_MNU_FILE_PLAY Spil
+_C_MNU_FILE_PLAYLIST Hent spilleliste/Cuesheet...
+_C_MNU_FILE_PLGEN Generate Playlists...\tCtrl+Shift+P
+_C_MNU_FILE_PLSEL Spilleliste (valgte filer)
+_C_MNU_FILE_PROPERTIES Egenskaber...
+_C_MNU_FILE_READ Læs &tag\tCtrl+T
+_C_MNU_FILE_REMOVE Fje&rn tag\tCtrl+R
+_C_MNU_FILE_REMOVEFILE Fje&rn\tDel
+_C_MNU_FILE_RENAME Omdøb\tF2
+_C_MNU_FILE_SAVE &Gem tag\tCtrl+S
+_C_MNU_FILE_SAVECONFIG Gem &konfiguration...
+_C_MNU_FREEDB F&reedb
+_C_MNU_FREEDB_INDEX Opret lokalt indeks
+_C_MNU_FS_EXT Udvid felter
+_C_MNU_FS_FNCT Funktioner
+_C_MNU_FS_INFO Informationsfelter
+_C_MNU_FS_MANAGE Styr historik...
+_C_MNU_FS_REM Fjern fra historik
+_C_MNU_FS_REMALL Fjern alt i historik...
+_C_MNU_FS_REMALL_MSG Er du sikker på du vil fjerne alle elementer?
+_C_MNU_HELP &Hjælp
+_C_MNU_HELP_ABOUT Om Mp3tag...
+_C_MNU_HELP_DONATE Donér
+_C_MNU_HELP_FINDER &Indhold...\tF1
+_C_MNU_HELP_FIRSTSTEPS &Første trin
+_C_MNU_HELP_KEYBOARD &Tastaturgenveje
+_C_MNU_HELP_SUPPORT Online-support...
+_C_MNU_HELP_UPGRADE Tjek for ny version...
+_C_MNU_HELP_WWW Mp3tag &Website...
+_C_MNU_TAG_EDIT Ret...\tF2
+_C_MNU_TAG_NEW Tilføj...\tIns
+_C_MNU_TAG_REMOVE Fjern\tDel
+_C_MNU_TAGSOURCES &Tag-kilder
+_C_MNU_TAGSOURCES_SETTINGS Indstillinger
+_C_MNU_TOOLS &Værktøj
+_C_MNU_VIEW &Vis
+_C_MNU_VIEW_COLUMNS &Tilpas kolonner...
+_C_MNU_VIEW_FILTER &Filter\tF3
+_C_MNU_VIEW_FILTER_AUTOAPPLY Anvend filter automatisk
+_C_MNU_VIEW_ID3 Tag panel\tCtrl+Q
+_C_MNU_VIEW_REFRESH &Opdatér\tF5
+_C_MNU_VIEW_SORTBY &Sortér efter
+_C_MNU_VIEW_SORTBYRANDOM &Randomisér
+_C_MNU_VIEW_TAGS Udvidede &tags...\tALT+T
+_C_MNU_VIEW_TOOLBAR &Værktøjslinie
+_C_MNU_SB_ACTIONS Tilføj til brugerdefinerede handlinger (stort/lille bogstav, erstat, ...) til valgte filer.
+_C_MNU_SB_CON_FTF Omdøb filer efter et givent mønster baseret på det gamle filnavn.
+_C_MNU_SB_CON_FTT Afledet tag fra et defineret mønster af filnavnet.
+_C_MNU_SB_CON_TFF Afledet tag fra et defineret mønster i en tekstfil.
+_C_MNU_SB_CON_TTF Omdøb filer efter et defineret mønster baseret på tags.
+_C_MNU_SB_CON_TTT Formatér tags baseret på tags.
+_C_MNU_SB_EDIT_COPY Kopiér tekstmarkering eller tag af markerede fil til udklipsholderen.
+_C_MNU_SB_EDIT_COPY_FORMAT Copy textual representation of selected files onto the clipboard.
+_C_MNU_SB_EDIT_CUT Klip tekstmarkering eller tag i markeret fil og flyt den til udklipsholderen.
+_C_MNU_SB_EDIT_INVERTSELECTION Invertér de nuværende valg.
+_C_MNU_SB_EDIT_NEXT Markér næste fil i filvisningen.
+_C_MNU_SB_EDIT_PASTE Indsæt indholdet ved markøren eller i den valgte fil i udklipsholderen.
+_C_MNU_SB_EDIT_REDO Gentag sidste fortrudte handling.
+_C_MNU_SB_EDIT_REPEAT Gentag sidste handling.
+_C_MNU_SB_EDIT_SELECT Vælg filer fra filvisningen.
+_C_MNU_SB_EDIT_UNDO Fortryd sidste operation.
+_C_MNU_SB_EDIT_UNSELECTALL fravælg alle filer.
+_C_MNU_SB_EXTRA_OPTIONS Vis indstillingsdialog.
+_C_MNU_SB_EXTRA_RESET_EDITS Fjern tekst fra alle inputfelter ved tag-panelet.
+_C_MNU_SB_EXTRA_SET_EDITS Sæt alle inputfelter ved tag-panelet for at definere standardværdier.
+_C_MNU_SB_EXTRA_TRACKWIZARD Start guiden for den automatiske spornummerering.
+_C_MNU_SB_FILE_ADD Tilføj katalog til listen af filer.
+_C_MNU_SB_FILE_CDDB Hent informationer om den indsatte audio-CD eller de valgte filer via internet-forbindelsen.
+_C_MNU_SB_FILE_CDDBLOCAL Hent information om den indsatte audio-CD eller de valgte filer fra den lokale Freedb-database.
+_C_MNU_SB_FILE_COPY Kopiér valgte filer til en anden mappe.
+_C_MNU_SB_FILE_DELETE Slet valgte filer.
+_C_MNU_SB_FILE_DIR Redigér aktiv arbejdskatalog.
+_C_MNU_SB_FILE_EXIT Gå ud af programmet.
+_C_MNU_SB_FILE_EXPORT Eksportér tag og filinformation fra valgte filer.
+_C_MNU_SB_FILE_FAVDIR Skift til standard-katalog.
+_C_MNU_SB_FILE_FREEDBINDEX Opret lokal Freedb indeksdatabase for at søge i den lokale Freedb.
+_C_MNU_SB_FILE_MOVE Flyt valgte filer til et andet katalog.
+_C_MNU_SB_FILE_PLALL Opret afspilningsliste ud fra samtlige filer.
+_C_MNU_SB_FILE_PLAY Afspil valgte filer.
+_C_MNU_SB_FILE_PLAYLIST Hent indholdet fra en afspilningsliste.
+_C_MNU_SB_FILE_PLSEL Opret Afspilningsliste ud fra valgte filer.
+_C_MNU_SB_FILE_PROPERTIES Vis egenskaber for valgte fil.
+_C_MNU_SB_FILE_READ Læs tag ud fra valgte fil til inputfelterne i tag-panelet.
+_C_MNU_SB_FILE_REMOVE Fjern tag fra valgte fil.
+_C_MNU_SB_FILE_REMOVEFILE Fjern valgte filer.
+_C_MNU_SB_FILE_RENAME Omdøb valgte fil.
+_C_MNU_SB_FILE_SAVE Gem tag i valgte filer.
+_C_MNU_SB_FILE_SAVECONFIG Gem nuværende indstillinger i en konfigurationsfil.
+_C_MNU_SB_HELP_ABOUT Information om Mp3tag.
+_C_MNU_SB_HELP_CONTEXT Vis konteksthjælp for markerede felter, menuer og vinduer.
+_C_MNU_SB_HELP_DONATE Overvej at give et bidrag til fortsat udvikling af Mp3tag.
+_C_MNU_SB_HELP_FINDER Vis indholdet af hjælp.
+_C_MNU_SB_HELP_FIRSTSTEPS Vis en kort introduktion til Mp3tag.
+_C_MNU_SB_HELP_KEYBOARD Vis en liste af tastaturgenveje.
+_C_MNU_SB_HELP_SUPPORT Gå til Mp3tag's forum.
+_C_MNU_SB_HELP_UPGRADE Se efter opdateringer til Mp3tag
+_C_MNU_SB_HELP_WWW Gå til Mp3tag's website.
+_C_MNU_SB_UPDIR Skift til overordnet mappe
+_C_MNU_SB_VIEW_COLUMNS Vis en dialog hvor kolonnerne for filvisning kan tilpasses.
+_C_MNU_SB_VIEW_FILTER Filtrér filvisningen.
+_C_MNU_SB_VIEW_ID3 Vis/skjul tag-inputmaske.
+_C_MNU_SB_VIEW_REFRESH Opdatér filvisning.
+_C_MNU_SB_VIEW_TAGS Vis udvidet tag-dialog.
+_C_MNU_SB_VIEW_TOOLBAR Vis/skjul værktøjslinie.
+_C_MNU_SB_WND_IDLE Klar
+_C_MNU_SB_WND_MAXIMIZE Udvid vinduet til fuldskærm
+_C_MNU_SB_WND_MINIMIZE Minimér vinduet til proceslinien
+_C_MNU_SB_WND_MOVE Flyt vinduets placering
+_C_MNU_SB_WND_RESTORE Genopret vinduet til normal størrelse
+_C_MNU_SB_WND_SIZE Redigér vinduets størrelse
+_C_MULTILINE Multilinje
+_C_OK &OK
+_C_OPT_ACTIONGROUPS Handlingsgrupper
+_C_OPT_ACTIONGROUPS_BTN_APPLY &Anvend
+_C_OPT_ACTIONGROUPS_SEL_EMPTY Ingen handlkingsgruppe er aktiveret
+_C_OPT_ACTIONGROUPS_SEL_MULTI {1} handlingsgruppe(r) aktiveret
+_C_OPT_ACTIONGROUPS_SEL_SINGLE Én handlingsgruppe aktiveret
+_C_OPT_ACTIONGROUPS_SORTBYNAME Sortér efter navn
+_C_OPT_ACTIONGROUPS_SORTBYSTATE Sortér efter tilstand
+_C_OPT_ACTIONS Handlinger
+_C_OPT_ACTIONS_TYPE Vælg handlingstype
+_C_OPT_ADVANCED Avanceret
+_C_OPT_ADVANCED_ID3V2LANG ID3v2 kommentar-sprog-kode (ISO-639-2)
+_C_OPT_ADVANCED_LISTCHAPTERS Oplist kapitler som separate filer
+_C_OPT_ADVANCED_POPULARIMETER Vis altid POPULARIMETER-værdier for ID3v2-bedømmelser
+_C_OPT_APPEARANCE Udseende
+_C_OPT_APPEARANCE_COLOR_DARK Mørk
+_C_OPT_APPEARANCE_COLOR_DEFAULT Standard
+_C_OPT_APPEARANCE_COLOR_LIGHT Lys
+_C_OPT_APPEARANCE_COLORMODE Farveskala
+_C_OPT_APPEARANCE_MINVERSION Kræver Windows 10 version 1809 eller nyere
+_C_OPT_CAPTION Valg
+_C_OPT_CDDB_CAPTION Freedb
+_C_OPT_CDDB_CHK_USEPROXY Brug pr&oxy
+_C_OPT_CDDB_FRM_CDDB Freedb-server
+_C_OPT_CDDB_FRM_LOCALPATH &Lokal Freedb-sti:
+_C_OPT_CDDB_FRM_PROXY Proxy
+_C_OPT_CDDB_RD_FMT_UNIX UNIX format
+_C_OPT_CDDB_RD_FMT_WIN Windows format
+_C_OPT_CDDB_ST_ADDRESS &Adresse:
+_C_OPT_CDDB_ST_EMAIL &E-mail-adresse:
+_C_OPT_CDDB_ST_NAME &Navn:
+_C_OPT_CDDB_ST_PATH Sti:
+_C_OPT_CDDB_ST_PORT Port:
+_C_OPT_CDDB_ST_PROXYNAME &Proxy:
+_C_OPT_CDDB_ST_PROXYPORT Po&rt:
+_C_OPT_CDDB_ST_PWD Pass&word:
+_C_OPT_CDDB_ST_TIMEOUT T&imeout:
+_C_OPT_CDDB_ST_USERNAME &Brugernavn:
+_C_OPT_CDDB3_CAPTION Lokal Freedb
+_C_OPT_CON_FRM_FTT &Filnavn -> Tag
+_C_OPT_CON_FRM_TFF Te&kstfil -> Tag
+_C_OPT_CON_FRM_TTF &Tag -> Filnavn
+_C_OPT_CON_ST_FNAME Filnavn:
+_C_OPT_CON_ST_FS Formatstreng:
+_C_OPT_DIR Kataloger
+_C_OPT_DIR_COVER Omslagskatalog
+_C_OPT_DIR_STARTUP Startup-bibliotek:
+_C_OPT_DIR_STARTUP_EMPTY Tom
+_C_OPT_DIR_STARTUP_PREVIOUS Tidligere
+_C_OPT_DIR_STARTUP_STANDARD Favorit
+_C_OPT_EMPTY_HINT Vælg et emne herunder
+_C_OPT_EXP_CAPTION Eksportér
+_C_OPT_EXP_CHK_APPEND Tilføj data
+_C_OPT_EXP_CHK_WRITEBOM Skriv BOM
+_C_OPT_EXP_FRM_EXPORT Eksportér konfiguration
+_C_OPT_EXP_RD_TRACK Spor
+_C_OPT_EXP_ST_FNAME Eksportér filnavn:
+_C_OPT_EXP_ST_NAME Navn på ny eksportkonfiguration
+_C_OPT_FMT_CASE Konvertér STOR/lille
+_C_OPT_FMT_FRM_FTF Filnavn -> Filnavn
+_C_OPT_FMT_ST_BEGIN Ord begynder fra/efter hvilken som helst af:
+_C_OPT_FMT_ST_FNAME_NEW Nyt filnavnmønster:
+_C_OPT_FMT_ST_FNAME_OLD Gammelt filnavnmønster:
+_C_OPT_FMT2 Erstat
+_C_OPT_FMT2_CASE BoGstAvFØlSom saMmenLignIng
+_C_OPT_FMT2_COL_ORIGINAL Original
+_C_OPT_FMT2_COL_REPLACE Erstat med
+_C_OPT_FMT2_ONLYWORDS Kun som helt ord
+_C_OPT_GEN_CAPTION Generelt
+_C_OPT_GEN_CHK_AUTOSAVE Gem tags under &brug af piltaster/enkelt museklik
+_C_OPT_GEN_CHK_FOLDERSTART Start fra dette katalog
+_C_OPT_GEN_CHK_GRID Vis gitterlinier ved filvisning
+_C_OPT_GEN_CHK_JUMPONEDIT Vælg automatisk næste fil under ændring i filvisning
+_C_OPT_GEN_CHK_KEEPFILETIME Behold filernes modifikationstid når tags gemmes
+_C_OPT_GEN_CHK_KEEPMOVEDFILES Bevar flyttede filer i fillisten
+_C_OPT_GEN_CHK_MSG_ACTIONWARNINGS ved advarsler fra handlinger
+_C_OPT_GEN_CHK_MSG_CHANGE efter ændring
+_C_OPT_GEN_CHK_MSG_CUT ved fjernelse af tags
+_C_OPT_GEN_CHK_MSG_DEL efter sletning
+_C_OPT_GEN_CHK_MSG_DELETEFILE ved sletning af filer
+_C_OPT_GEN_CHK_MSG_EXPORT ved eksport af tags
+_C_OPT_GEN_CHK_MSG_PASTE ved indsættelse af tags
+_C_OPT_GEN_CHK_MSG_REMOVETAGS ved fjernelse af tags
+_C_OPT_GEN_CHK_MSG_SAVE efter gemning
+_C_OPT_GEN_CHK_MSG_TSIMPORTCOVER ved import af omslag
+_C_OPT_GEN_CHK_MSG_UNSAVED ved ikke-gemte ændringer
+_C_OPT_GEN_CHK_PL Lav automatisk en &afspilningsliste
+_C_OPT_GEN_CHK_RELPL Indtastning relativ fra arbejdsmappe
+_C_OPT_GEN_CHK_AUTOCOMPLETE Auto-fuldfør ved valgbokse
+_C_OPT_GEN_CHK_SELECTFILES Vælg filer automatisk
+_C_OPT_GEN_CHK_SHOWEXPLORERCONTEXTMENU Vis i Windows-højrekliksmenu
+_C_OPT_GEN_CHK_SORTNATURAL Brug naturlig sortering
+_C_OPT_GEN_CHK_TITLESHOWFOLDERPATH &Vis aktuel mappe i vinduestitel
+_C_OPT_GEN_FRM_GEN Generelt
+_C_OPT_GEN_FRM_MSG Vis besked
+_C_OPT_GEN_FRM_PL &Filnavn til afspilningsliste
+_C_OPT_GEN_RD_PLALL fra alle filer
+_C_OPT_GEN_RD_PLSEL fra valgte filer
+_C_OPT_GEN_ST_FAVDIR Favoritmappe:
+_C_OPT_GEN2_CAPTION Beskeder
+_C_OPT_GENRES Brugerdefineret genre
+_C_OPT_GENRES_HIDESTANDARD Vis kun brugerdefineret genre
+_C_OPT_GENRES_PREFEREXISTING Foretræk genrer fra tags opålistet i tag-panelet
+_C_OPT_ID3_CHK_ISO88591 Skriv altid ISO-8859-1 tags istedet for UTF-16
+_C_OPT_ID3_CHK_LEADINGZEROS Start med nul før hvert spor (01, 02, ...)
+_C_OPT_ID3_CHK_LENGTHDEPENDEND ID3v2 hvis ID3v1 er for lille
+_C_OPT_ID3_CHK_V1 ID3v1
+_C_OPT_ID3_CHK_V2 ID3v2
+_C_OPT_ID3_FRM_READ Læs
+_C_OPT_ID3_FRM_REMOVE Fjern
+_C_OPT_ID3_FRM_WRITE Skriv
+_C_OPT_LIB Bibliotek
+_C_OPT_LIB_CHK_ENABLE Aktivér bibliotek
+_C_OPT_LIB_CHK_RESTRICT Inkludér kun disse kataloger
+_C_OPT_LIB_CLEANUP Ryd bibliotek
+_C_OPT_MAPPING Mappekontrol
+_C_OPT_MAPPING_FRM Brugerdefinerede mappefelter
+_C_OPT_MAPPING_SOURCE Kilde
+_C_OPT_MAPPING_TARGET Mål
+_C_OPT_PLAYLIST_CAPTION Afspilningsliste
+_C_OPT_PLAYLIST_EXTENDED Skriv udvidet info
+_C_OPT_PLAYLIST_NOFOLDERS Opret ikke mapper
+_C_OPT_PLAYLIST_SHOWDLG Vis bekræftet filnavn-dialog
+_C_OPT_TAG Tags
+_C_OPT_TAGS_COVER Standard-filnavn for omslag:
+_C_OPT_TAGS_EXT Gem tilstand for << og >> ved udvidet tagdialog:
+_C_OPT_TAGS_FILEFILTER Begræns indkommende filer til:
+_C_OPT_TAGS_MUSICBRAINZ_COVERSIZE MusicBrainz størrelse på omslag
+_C_OPT_TAGS_NOIMG &Vis ikke første billede fra mappen som omslag.
+_C_OPT_TOOLS Værktøj
+_C_OPT_TOOLS_CHK_DEFAULT Brug specialprogram ved dobbeltklik:
+_C_OPT_TOOLS_CHK_MULTIPLEINSTANCES for alle valgte filer
+_C_OPT_TOOLS_COL_PARAM Parameter
+_C_OPT_TOOLS_COL_PATH Sti
+_C_OPT_TOOLS_EDIT Tilpas værktøj.  Navn og sti er obligatorisk.
+_C_OPT_TOOLS_FRM_DEFAULT Standard-værktøj
+_C_OPT_TOOLS_FRM_TOOLS Værktøj
+_C_PLAYLIST_GENERATOR Playlist Generator
+_C_PLAYLIST_GENERATOR_FORMAT Format string for playlist filenames:
+_C_PLAYLIST_GENERATOR_PARTITION Partition files by:
+_C_PLAYLIST_GENERATOR_PREVIEW Preview:
+_C_PLAYLIST_GENERATOR_STATUS_BUSY Generating ...
+_C_PLAYLIST_GENERATOR_STATUS_ONE {1} Playlist
+_C_PLAYLIST_GENERATOR_STATUS_MANY {1} Playlists
+_C_OVERWRITE Over&skriv
+_C_RENAME &Omdøb
+_C_TEXT Tekst
+_C_TT_CDDB Freedb...
+_C_TT_CDDBLOCAL Freedb (lokal)...
+_C_TT_CLOSE Luk
+_C_TT_DIR Redigér mappe...
+_C_TT_EDIT_REDO Gentag
+_C_TT_EDIT_REPEAT Gentag
+_C_TT_EDIT_UNDO Fortryd
+_C_TT_EXPORT Eksportér
+_C_TT_FAVDIR Favoritmappe
+_C_TT_FILE_ADD Tilføj til mappe...
+_C_TT_FILE_COPY Kopiér til...
+_C_TT_FILE_DELETE Slet...
+_C_TT_FILE_MOVE Flyt til...
+_C_TT_FILE_PLAY Afspil
+_C_TT_FILE_PROPERTIES Egenskaber...
+_C_TT_FILE_RENAME Omdøb
+_C_TT_FTF Filnavn -> Filnavn
+_C_TT_FTT Filnavn -> Tag
+_C_TT_HELP Hjælp indhold...
+_C_TT_OPT Indstillingsdialog...
+_C_TT_PLALL Lav afspilningsliste ud fra alle filer
+_C_TT_PLSEL Lav afspilningsliste ud fra valgte filer
+_C_TT_REFRESH Opdatér filvisning
+_C_TT_REMOVE Fjern tag
+_C_TT_SAVE Gem
+_C_TT_TFF Tekstfil -> Tag
+_C_TT_TTF Tag -> Filnavn
+_C_TT_TTT Tag -> Tag
+_C_TT_UPDIR Op
+_C_WIZARD_TRACKS Guide for autonummerering
+_C_WIZARD_TRACKS_BEGIN Begynd ved spornummer:
+_C_WIZARD_TRACKS_DESC Tildel spor- og disknumre
+_C_WIZARD_TRACKS_DISC_BEGIN Begynd ved disknummer
+_C_WIZARD_TRACKS_DISC_LEADINGZEROS Foranstillede nuller for disknumre (01, 02, ...)
+_C_WIZARD_TRACKS_DISC_SAVETOTAL Gem samlet antal diske
+_C_WIZARD_TRACKS_DISCNUMBER Disknummer
+_C_WIZARD_TRACKS_NEXTDISC_FIELD Næste disk ved skift af
+_C_WIZARD_TRACKS_NEXTDISC_FOLDER Næste disk ved skift af katalog
+_C_WIZARD_TRACKS_RESETDISC_FIELD Reset disktæller ved skift af 
+_C_WIZARD_TRACKS_RESETFOLDERS Nulstil tæller for hver mappe
+_C_WIZARD_TRACKS_RESETTRACK_NEXTDISC Nulstil spor-tælleren ved næste disk
+_C_WIZARD_TRACKS_SAVETOTAL Gem summen af antallet af spor
+_C_WIZARD_TRACKS_TRACKNUMBER Spornummer
+_M_ERR_CANCEL Processen afbrudt.
+_M_ERR_CDDB_CD Fejl ved læsning af audio-CD
+_M_ERR_CDDB_CONNECT Fejl ved tilkobling til server: {1}
+_M_ERR_CDDB_NOENTRY Ingen passende titel fundet for Freedb-ID {1}.
+_M_ERR_CDDB_NOENTRYINLOCALBD Ingen passende titel fundet for Freedb-ID {1} i lokal Freedb-database '{2}'.
+_M_ERR_CDDB_PARSER Resultatløs forespørsel.
+_M_ERR_CDDB_READ Fejl ved læsning af data fra {1}
+_M_ERR_CONFIGURATION Kan ikke importere konfiguration.
+_M_ERR_COPY Kan ikke kopiere valgte filer!
+_M_ERR_DELETE Kan ikke slette valgte filer!
+_M_ERR_FILECREATE Filen \"{1}\" kan ikke gemmes.
+_M_ERR_FILEDELETE Filen \"{1}\" kan ikke slettes.
+_M_ERR_FILENAMEALREADYEXISTS Fil med navnet \"{1}\" findes allerede!
+_M_ERR_FILENAMEALREADYEXISTS2 Filen \"{1}\" er ikke omdøbt.
+_M_ERR_FILEOPABORTED Indholdet af denne mappe er ændret.\n\nVil du indlæse mappen igen?
+_M_ERR_FILEOPEN Filen \"{1}\" kan ikke åbnes.
+_M_ERR_FILEREADONLY Filen \"{1}\" er en skrivebeskyttet fil.\n\nSkal Mp3tag ophæve skrivebeskyttelsen på denne og alle efterfølgende skrivebeskyttede filer?
+_M_ERR_FOLDERCANNOTBEACCESSED Adgangsfejl\n\nMappen \"{1}\" kan ikke tilgås.
+_M_ERR_INVALID_FILENAME Indtast venligst et gyldigt filnavn.
+_M_ERR_INVALID_FTF_FS Strengen \"{1}\" er en ugyldig formatstreng for filnavn.
+_M_ERR_INVALID_TOKEN {1}:\nFølgende tegn er ikke tilladt i filnavn:\n\\ / : * ? \" < > |\n\nSkal det rettes automatisk?
+_M_ERR_MOVE Kan ikke flytte valgte filer!
+_M_ERR_ONLINE_NOTFOUND Desværre - ingen resultater på dine søgekriterier.
+_M_ERR_OPT_CDDB_NOADDRESS Indtast adressen til en Freedb-server.
+_M_ERR_OPT_CDDB_NOEMAIL Indtast din email-addresse under 'Indstillinger, Freedb, Server'. Det vil blive brugt til logning af adgangen til Freedb-serveren.
+_M_ERR_OPT_CDDB_NONAME Indtast et gyldigt navn for konfigurationen.
+_M_ERR_OPT_CDDB_NOPORT Indtast port nummer til en Freedb-server.
+_M_ERR_PARSELINE Kan ikke tolke linjen {1}.
+_M_ERR_PLAY Kan ikke åbne filen \"{1}\" til afspilning!
+_M_ERR_READ_FILE Filen \"{1}\" kan ikke åbnes til læsning.
+_M_ERR_RENAME_FILE Filen \"{1}\" kan ikke omdøbes til \"{2}\".
+_M_ERR_RETRY Vil du prøve igen?
+_M_ERR_TL_NOTAGS Ingen matchende artikel for fil \"{1}\".
+_M_ERR_WRITE_FILE Filen \"{1}\" kan ikke åbnes til skrivning.
+_M_ERR_YN \n\nVil du fortsætte?
+_M_LOG_FMT_FNAME {1} af {2} filer omdøbt.\n
+_M_LOG_FMT_TAG {1} af {2} tags formatteret.\n
+_M_LOG_FTF {1} af {2} filer omdøbt.
+_M_LOG_FTT Tag udledt fra {1} af {2} filer.
+_M_LOG_PL_ALL Afspilningslisten \"{1}\" oprettet ud fra alle ({2}) filer.
+_M_LOG_PL_SEL Afspilningslisten \"{1}\" oprettet ud fra valgte ({2}) filer.
+_M_LOG_REMOVE Tag fjernet fra filen \"{1}\".
+_M_LOG_REMOVED Tag fjernet fra {1} af {2} filer.
+_M_LOG_REMOVE_NOTAG Ingen tag i filen \"{1}\".
+_M_LOG_SAVE Gemte tag i filen \"{1}\".
+_M_LOG_SAVED Gemte tag i {1} af {2} filer.
+_M_LOG_TFF Tag ekstraheret fra tekstfilen \"{1}\" og gemt i {2} af {3} filer.
+_M_LOG_TFF_S Importerede tags fra \"{1}\" til en fil.
+_M_LOG_TTF {1} af {2} filer omdøbt.
+_M_STAT_PLAY Afspil filen \"{1}\"...
+_M_STR_ACTION_ADJUSTCOVER Tilret omslag
+_M_STR_ACTION_ADJUSTCOVER_FORMAT Format
+_M_STR_ACTION_ADJUSTCOVER_FORMATKEEP Original
+_M_STR_ACTION_ADJUSTCOVER_QUALITY Kvalitet
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_BEST Bedst
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_HIGH Høj
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_LOW Lav
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_MEDIUM Medium
+_M_STR_ACTION_ADJUSTCOVER_SIZE Max. størrelse
+_M_STR_ACTION_CODEPAGE Konvertér tegnkodningstabel
+_M_STR_ACTION_CODEPAGE_DESC tegnkodningstabel
+_M_STR_ACTION_EXPORTCOVER Eksportér omslag til fil
+_M_STR_ACTION_EXPORTCOVER_DUPES Eksportér duplikat-omslag
+_M_STR_ACTION_EXPORTCOVER_TYPES Eksportér kun omslag af typen
+_M_STR_ACTION_FORMAT Formatér værdi
+_M_STR_ACTION_GUESS Gæt værdier
+_M_STR_ACTION_GUESSPATTERN Gæt mønster
+_M_STR_ACTION_GUESSSOURCE Kilde-format
+_M_STR_ACTION_IMPORTCOVER Importér omslag fra fil
+_M_STR_ACTION_IMPORTCOVER_FS Format-streng for omslags-filnavn:
+_M_STR_ACTION_IMPORTCOVER_DELETE &Slet eksisterende omslag
+_M_STR_ACTION_IMPORTCOVER_TYPE Importér omslag som:
+_M_STR_ACTION_IMPORTTEXT Importér tekstfil
+_M_STR_ACTION_MERGEDUPLICATEFIELDS Bland duplikatfelter
+_M_STR_ACTION_PLAYLIST Generate Playlists
+_M_STR_ACTION_REGEXP Erstat med regulært udtryk
+_M_STR_ACTION_REGEXP_EXP Regulært udtryk
+_M_STR_ACTION_REGEXP_MATCH Erstat match med
+_M_STR_ACTION_REMOVEDUPES Fjern duplikatfelter
+_M_STR_ACTION_REMOVEDUPES_ONLYSAMECONTENT Only duplicate fields with same content
+_M_STR_ACTION_REM Fjern felter
+_M_STR_ACTION_REM_DESC Felter der fjernes (semikolon-adskillelse):
+_M_STR_ACTION_REM_EX Fjern felter bortset fra
+_M_STR_ACTION_REM_EX_DESC felter som skal undgås (semikolon-adskillelse):
+_M_STR_ACTION_SETCOVERPROPERTIES Sæt egenskaber for omslag
+_M_STR_ACTION_SETCOVERPROPERTIES_DESC Beskrivelse af omslag:
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER Sæt til:
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER_ALL Alle omslag
+_M_STR_ACTION_SETCOVERPROPERTIES_TYPE Omslagstype:
+_M_STR_ACTION_SPLITFIELDS Del felter med separator
+_M_STR_ACTIONGROUP_CHANGED Handlingsgruppekonfigurationen er ændret.\r\n\r\nVil du gemme ændringerne?
+_M_STR_ACTIONGROUP_NAME Navn på handlingsgruppe
+_M_STR_ALBUM Album
+_M_STR_ALBUMARTIST Album-kunstner
+_M_STR_ALL_FILEDLGFILTER Alle filer (*.*)|*.*||
+_M_STR_ARTIST Kunstner
+_M_STR_AUTHOR Forfatter
+_M_STR_AUTOSIZECOLUMNS Automatisk kolonnestørrelse
+_M_STR_BACK < Til&bage
+_M_STR_BROWSE_COPY Kopiér til:
+_M_STR_BROWSE_MOVE Flyt til:
+_M_STR_BROWSE_TEXT Vælg en mappe som indeholder lydfiler.
+_M_STR_BYTES Bytes
+_M_STR_CDDB_CD Læs lyd-CD
+_M_STR_CDDB_CONNECT forbind til {1}...
+_M_STR_CDDB_CONNECTED  forbind!
+_M_STR_CDDB_IDXDB_ENTRIES databaseposter oprettet
+_M_STR_CDDB_RETRIEVE Hent titelinformation
+_M_STR_COLUMNFILENAME Filnavn
+_M_STR_COLUMNPATH Sti
+_M_STR_COLUMNUSEDCOLS vis
+_M_STR_COMBO_HOLD < behold >
+_M_STR_COMBO_REMOVE < blank >
+_M_STR_COMBO_USER < Indtast >
+_M_STR_COMMENT Kommentar
+_M_STR_COMPOSER Komponist
+_M_STR_COPYOF Kopi af {1}
+_M_STR_COVER Omslag
+_M_STR_COVER_ADD Vil du beholde eksisterende omslag?
+_M_STR_COVER_CORRECTAR Rigtigt visningsforhold
+_M_STR_COVER_SETDESC Sæt omslagsbeskrivelse...
+_M_STR_COVER_SETTYPE Sæt omslagstype
+_M_STR_COVERVARIES Omslagsvarianter
+_M_STR_CUSTOMIZE Tilpas...
+_M_STR_CUSTOMLISTVALUES Brugerlisteværdier
+_M_STR_DAY dag
+_M_STR_DAYS dage
+_M_STR_DEFAULTVALUE Default værdi
+_M_STR_DESCRIPTION Beskrivelse
+_M_STR_DISCID CDDB ID
+_M_STR_DISCOGS_OAUTH_PIN Indtast Discogs-autorisationskode
+_M_STR_DISCNUMBER Disknummer
+_M_STR_DONTSHOWAGAIN Vis ikke denne meddelelse igen
+_M_STR_ERR_CDDB_NOENTRYSELECTED Vælg en post.
+_M_STR_EXPORT Eksportér...
+_M_STR_EXPORT_DELETE Slet eksport-konfiguration \"{1}\"?
+_M_STR_EXPORT_FILEDLGTITLE Vælg eksportfil
+_M_STR_EXPORT_MULTIPLE Én fil pr. mappe
+_M_STR_EXPORT_SHOWEXPORTFILE \n\nVis eksportfil nu?
+_M_STR_EXP_MSG Eksportér informationer om {2} filer og skriv til filen '{1}'.
+_M_STR_FIELD Felt:
+_M_STR_FIELDSIZE Størrelse på felt
+_M_STR_FIELDTYPE Type
+_M_STR_FIELDROWS Rækker
+_M_STR_FILE Fil
+_M_STR_FILEDELETE Vil du virkelig slette alle markerede filer?
+_M_STR_FILEMODIFIED Ændringsdato
+_M_STR_FILESIZE Størrelse
+_M_STR_FILTER &Filter:
+_M_STR_FMT_CAPITAL Små/store bogstaver
+_M_STR_FMT_HIGH STORE bogstaver
+_M_STR_FMT_LOW Små bogstaver
+_M_STR_FMT_SENTENCE Sætning
+_M_STR_FREEDBCREATEINDEX Opret lokal Freedb-indeksdatabase?\n\nDette kan tage nogle minutter.
+_M_STR_FREEDB_SEARCH Freedb-websøgning
+_M_STR_GENRE Genre
+_M_STR_GENRES Genrer
+_M_STR_HIDE Sk&jul
+_M_STR_IMPORT Importér...
+_M_STR_ITEMALREADYEXISTS Navnet findes allerede, overskriv?
+_M_STR_LANGUAGE Sprog
+_M_STR_M3U_FILEDLGFILTER Understøttede filer (*.m3u; *.m3u8; *.cue)|*.m3u; *.m3u8; *.cue||
+_M_STR_MANAGE Håndtér...
+_M_STR_MANAGEHISTORY Håndtér historik
+_M_STR_METADATA &Metadata
+_M_STR_MOVEDOWN Flyt &ned
+_M_STR_MOVEUP Flyt o&p
+_M_STR_MPEGBITRATE Bitrate
+_M_STR_MPEGFREQUENCY Frekvens
+_M_STR_MPEGLENGTH Længde
+_M_STR_MPEGMODE Tilstand
+_M_STR_MPEGVERSION Codec
+_M_STR_MSGCUT Vil du virkelig fjerne taggen på den valgte fil og kopiere den til udklipsholderen?
+_M_STR_MSGPASTE Vil du virkelig tilføje indholdet fra udklipsholderen som ny tag på den valgte fil?
+_M_STR_MSGREMOVE Vil du virkelig fjerne tags på valgte filer?
+_M_STR_NAME Navn
+_M_STR_NETWORKING Netværk
+_M_STR_NEXT &Næste >
+_M_STR_NOACTION - Ingen handling -
+_M_STR_NOACTIONENABLED Aktivér mindst en handling sat via flueben når du bruger denne funktion.
+_M_STR_NUMERIC Numerisk
+_M_STR_OPT_CDDB_BROWSE_LOCALPATH Vælg en arbejdsmappe til den lokale Freedb-database.
+_M_STR_OPT_CDDB_PROCEED Dette fjerner alle servere!\n\nVil du fortsætte?\n
+_M_STR_OPTIMIZEFLAC Optimér FLAC
+_M_STR_OPTIMIZEMP4 Optimér MP4
+_M_STR_OPTS_ALWAYS altid
+_M_STR_OPTS_ASK spørg
+_M_STR_OPTS_NEVER aldrig
+_M_STR_PLNAME Playlist - Filnavn
+_M_STR_PL_CONFIRM Opret afspilningsliste med dette navn
+_M_STR_PL_SAVEFILTER Playlist-fil (*.m3u)|*.m3u|Unicode Playlist-fil (*.m3u8)|*.m3u8||
+_M_STR_PREFERTAGVALUES Foretræk tag-værdier i tag-panellisten
+_M_STR_PRESET_SELECTION Opret forudindstilling for valg...
+_M_STR_PRESETS Forudindstillinger
+_M_STR_PREVIEW Eksempel
+_M_STR_PROPERTIES {1} Egenskaber
+_M_STR_QUICK Hurtig
+_M_STR_RECURSE Undermapper
+_M_STR_REST Resten
+_M_STR_SAVE_NOT < ingen tilknytning >
+_M_STR_SAVECONFIG Din opsætning gemmes i filen '{1}'.\n\nFor at genoprette dine indstillinger, udpak filen til\n\"{2}\".
+_M_STR_SAVECONFIG_FILEDLGFILTER Konfigurationsfiler (*.zip)|*.zip||
+_M_STR_SAVECONFIG_FILEDLGTITLE Gem konfiguration i...
+_M_STR_SAVEIMAGE Gem billede til tag
+_M_STR_SAVEIMAGEDIRECTORY Gem billede til disk
+_M_STR_SAVESELECTION Gem markerede...
+_M_STR_SB_ABORTED Afbrudt
+_M_STR_SB_ACTION Tilføj handlinger til filen ... {1} af {2}
+_M_STR_SB_CLEANUPDATABASE Behandler filer ... {1} af {2} ({3} ryddet)
+_M_STR_SB_CLEANUPDATABASE_BINARIES Ryd afledte binære
+_M_STR_SB_CLEANUPDATABASE_COVERS Ryd afledte omslag
+_M_STR_SB_CLEANUPDATABASE_NONLIBFILES Ryd ikke-biblioteksfiler
+_M_STR_SB_EXPORTTAGS Eksportér tag information ... {1} af {2}
+_M_STR_SB_FILTER Filtrerer ...
+_M_STR_SB_LOADTAGS Læser tag-data ... {1} af {2}
+_M_STR_SB_READDIRECTORY Læs katalog
+_M_STR_SB_REMOVETAGS Fjerner tag-data ... {1} af {2}
+_M_STR_SB_RENAMEFILES Omdøber navn på fil ... {1} af {2}
+_M_STR_SB_WRITETAGS Skriver tag-data ... {1} af {2}
+_M_STR_SHOWCHOOSEDLG Vis dialogvalg
+_M_STR_SEARCHBY Søg med:
+_M_STR_SEARCHTEXT Tekst:
+_M_STR_SEPARATOR Separator
+_M_STR_SHOW &Vis
+_M_STR_SIZE_FULL Fuld
+_M_STR_SIZE_LARGE Stor
+_M_STR_SIZE_LARGER Større
+_M_STR_SIZE_MEDIUM Middel
+_M_STR_SIZE_NORMAL Normal
+_M_STR_SIZE_SMALLER Mindre
+_M_STR_SIZE_SMALL Lille
+_M_STR_SIZE_TINY Lillebitte
+_M_STR_SNA Meddelelsesområde
+_M_STR_SNA_SHOW Vis altid ikon i meddelelsesområdet
+_M_STR_SNA_SHOWMIN Minimér til meddelelsesområdet
+_M_STR_STRIPCHAPTERSMP4 Strip MP4-kapitler
+_M_STR_TAG_COPIED Kopiér tags fra {1} filer til udklipsholder.
+_M_STR_TAG2 Tag
+_M_STR_TAGFIELDS_REMOVE Fjern felt
+_M_STR_TAGFIELDS_REMOVEALL Fjern alle felter...
+_M_STR_TAGFIELDS_REMOVEALLMSG Er du sikke på du vil fjerne alle felter fra listen?
+_M_STR_TAGFIELDS_RESET Reset felter...
+_M_STR_TAGFIELDS_RESETMSG Er du sikker på du vil tilbagestille feltlisten til dens standardværdi(er)?
+_M_STR_TAGPANEL Tag-panel
+_M_STR_TAGPANEL_COVER Vis omslag
+_M_STR_TAGPANEL_DIRECTORY Vis mappeskifter
+_M_STR_TAGPANEL_DUPLICATEFIELD {1} is already used for another field and cannot be added twice.
+_M_STR_TAGLIST_FILEDLGFILTER Tekstfiler ({1})
+_M_STR_TAGLIST_FILEDLGTITLE Vælg tekstfil
+_M_STR_TAGSOURCES Tag-kilder
+_M_STR_THISALBUMON Dette album på {1}
+_M_STR_TITLE Titel
+_M_STR_TRYAGAIN Vil du prøve igen?
+_M_STR_TTF Tag - Filnavn
+_M_STR_UNSAVED Vil du gemme ændringerne?
+_M_STR_UPDATE_FRM Opdateringer
+_M_STR_UPDATE_OPT_CHECK Tjek for opdateringer ved opstart
+_M_STR_UPDATE_OPT_CHECK_BETA Brug også Development Builds (Beta-versioner)
+_M_STR_UPDATE_OPT_CHECK_RELEASENOTES Vis versionsnoter for nye versioner
+_M_STR_UPDATEAVAILABLE En ny version af Mp3tag {1} er tilgængelig!\n\nVil du hente denne opdatering fra {2} nu?
+_M_STR_UPDATENOTAVAILABLE Du bruger den seneste version: {1}.\n\nEn opdatering findes ikke.
+_M_STR_URL https://www.mp3tag.de/en/download.html
+_M_STR_UTILS &Værktøj
+_M_STR_VALUE Værdi
+_M_STR_VERSION Version
+_M_STR_YEAR År
+_M_TP_CDDB_LOCALPATH Angiv lokal Freedb-mappe
+_M_TP_CDDB_SITES Aktuel liste af Freedb-servere via Internet
+_M_TP_CVR_CLIPBOARD Tilføj omslag
+_M_TP_CVR_CLIPBOARD_COPY Kopiér omslag
+_M_TP_CVR_CLIPBOARD_CUT Klip omslag
+_M_TP_CVR_DEL Fjern omslag
+_M_TP_CVR_NEW Tilføj omslag...
+_M_TP_CVR_SAVE Gem omslag...
+_M_TP_DUPLICATE Duplikér
+_M_TP_EXP_DEL Slet
+_M_TP_EXP_EDIT Redigér
+_M_TP_EXP_FILE Vælg eksportfil
+_M_TP_EXP_HLP Vis hurtighjælp
+_M_TP_EXP_LOAD Hent konfiguration
+_M_TP_EXP_NEW &Ny
+_M_TP_EXP_SAVE Gem konfiguration
+_M_TP_GEN_DIR Vælg mappe
+_M_TP_TAG_DEL Fjern felt
+_M_TP_TAG_EDIT Redigér felt...
+_M_TP_TAG_NEW Tilføj felt...
+_M_TS_ADDINFO Tillægsinformation
+_M_TS_MULTIPLEVALUES flere værdier
+_M_TS_RELEASE Udgivelse
+_M_TS_TRACKS Spor
+_M_UNDO_CANNOTREDO Kan ikke gentage {1}
+_M_UNDO_CANNOTUNDO Kan ikke fortryde {1}
+_M_UNDO_CDDB Freedb
+_M_UNDO_DIRECTORYCREATE Opret mappe
+_M_UNDO_DIRECTORYMOVE Flyt mappe
+_M_UNDO_FORMAT Format
+_M_UNDO_FTF Filnavn -> Filnavn
+_M_UNDO_FTT Filnavn -> Tag
+_M_UNDO_REMOVEFILE Fjern
+_M_UNDO_RENAME Omdøb
+_M_UNDO_TAGCHANGE Redigér tag
+_M_UNDO_TAGREMOVE Fjern tag
+_M_UNDO_TAGSAVE Gem tag
+_M_UNDO_TFF Tekstfil -> Tag
+_M_UNDO_TTF Tag -> Filnavn

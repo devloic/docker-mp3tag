@@ -1,0 +1,7 @@
+services:
+  mp3tag:
+    build: .
+    ports:
+      - "5806:5800"
+    volumes:
+       - "./music:/music:rw"

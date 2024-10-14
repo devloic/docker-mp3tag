@@ -1,0 +1,729 @@
+﻿LANGAUTHOR HiSen(更新語言), Hulen(破滅刃), Abel Cheung
+LANGCONTACT abelcheung@gmail.com
+LANGVERSION 3.25
+LANGCODE_639_1 zh
+LANGNAME Trad. Chinese
+LANGNAMELOC 正體中文
+SLangCancel 取消
+SLangOk 確定(&O)
+SLangErrCatch 執行錯誤\n\n檔案：\t{1}\n行號：\t{2}\n\n應用程式發生意料外的 exception，正處於不穩定狀態。請在關閉程式後，傳送以下的檔案\n\n{3}\n\n以及有關該錯誤的詳細描述給我們的支援人員。\n\n信箱：support@mp3tag.de
+SLangErrCheck 執行錯誤\n\n檔案：\t{1}\n行號：\t{2}\n項目：\t{3}\n代碼：\t0x{4}\n\n應用程式發生意料外的 exception，正處於不穩定狀態。請在關閉程式後，傳送以下的檔案\n\n{5}\n\n以及有關該錯誤的詳細描述給我們的支援人員。\n\n信箱：support@mp3tag.de
+SLangErrDriveCannotBeAccessed 無法存取硬碟 {1}。
+SLangErrFileCannotBeAccessed 無法存取檔案 {1}。
+SLangErrFileCannotBeDeleted 無法刪除檔案 {1}。\n\n» 請確保沒有其它程式正在使用這個檔案。
+SLangErrFolderCannotBeAccessed 無法存取資料夾 {1}。
+SLangErrFolderCannotBeDeleted 無法刪除資料夾 {1}。\n\n» 請確保沒有其它程式正在使用這個資料夾。
+SLangErrHelpBrowserIsNotAvailable Mp3tag 無法在網頁瀏覽器顯示說明檔。
+SLangErrHelpSystemIsNotAvailable 說明系統無法使用。\n\n» 請重新安裝 {1}。
+SLangErrHelpTopicIsNotAvailable 說明主題不存在。\n\n» 請聯繫支援人員。\n\n信箱：support@mp3tag.de
+SLangErrNotEnoughFreeDiskSpace 硬碟 {1} 空間不足。\n\n» 請保證至少有 {2} 的空間。
+SLangErrRegistryCannotBeAccessed 讀取資料時發生錯誤\n\n無法存取 Windows 登錄檔。
+SLangMsgItemExistsAlready 已經有項目使用了這個描述名稱。\n\n» 請改用另一個描述。
+SLangMsgFirstSteps 請抽點時間到「新手上路」學習一下。
+SLangMsgShutdownInfo 請稍等，{1} 正在關閉。
+SLangWrnAppIsAlreadyRunning 這個應用程式已經在執行了。
+SLangWrnAppHasToBeRestarted Mp3tag 必須重新啟動以套用變更。\n\n要現在重新啟動 Mp3tag 嗎？
+SLangWrnNameContainsInvalidCharacters 這個描述名稱包含了不合法的字元。\n\n» 請改用另一個描述。
+SLangWrnStartLogging 您用了 FLOG1 指令行參數啟動 {1}。這個參數是用來除錯的。\n\n是否要開啟日誌功能？
+_C_ABORT 中斷
+_C_ABORTING 正在中斷…
+_C_APP_ST_ALBUM 專輯(&A)
+_C_APP_ST_ARTIST 藝人(&I)
+_C_APP_ST_COMMENT 註釋(&M)
+_C_APP_ST_FOLDER 資料夾(&D)
+_C_APP_ST_GENRE 音樂類型(&G)
+_C_APP_ST_TITLE 標題(&L)
+_C_APP_ST_TRACK 音軌(&R)
+_C_APP_ST_YEAR 年份(&Y)
+_C_CANCEL 取消(&C)
+_C_CANCELING 正在取消…
+_C_CHECK 勾選
+_C_CLOSE 關閉(&O)
+_C_DLG_CDDBCONFIRM_CAPTION 搜尋結果清單…
+_C_DLG_CDDBCONFIRM_CHK_DISCID 複製 光碟ID 到註釋欄位
+_C_DLG_CDDBCONFIRM_CHK_DISCID2 複製 光碟ID 到 DISCID 欄位
+_C_DLG_CDDBCONFIRM_CHK_SAMPLER 編輯…
+_C_DLG_CDDBCONFIRM_CHK_SORT 建議排序
+_C_DLG_CDDBCONFIRM_ST_INFO 找到許多結果。\n請選一個:
+_C_DLG_CDDBCONFIRM_ST_INFO2 從資料庫 {1} 有 {2} 個搜尋結果。\n請選一個:
+_C_DLG_CDDBCONFIRM_STC_TOP 變更音樂資料
+_C_DLG_CDDBINPUT_CAPTION 輸入 freedb ID
+_C_DLG_CDDBINPUT_ST_CATEGORY 音樂類型:
+_C_DLG_CDDBINPUT_ST_ID freedb ID:
+_C_DLG_CDDBSTYLE_CAPTION freedb
+_C_DLG_CDDBSTYLE_RD_CDROM 從光碟機中的音樂 C&D 決定
+_C_DLG_CDDBSTYLE_RD_ENTER 手動輸入(&E)
+_C_DLG_CDDBSTYLE_RD_MP3 從所選定的檔案決定(&F)
+_C_DLG_CDDBSTYLE_RD_SEARCH 透過網頁搜尋決定(&W)
+_C_DLG_CDDBSTYLE_RD_SEARCHLOCAL 透過文字搜尋決定(&T)
+_C_DLG_CDDBSTYLE_STC_TOP freedb ID…
+_C_DLG_COPYFORMAT Copy as Text
+_C_DLG_COPYFORMAT_BTN_COPY C&opy
+_C_DLG_COLUMNS_CAPTION 欄位
+_C_DLG_COLUMNS_TOP 顯示/隱藏欄位
+_C_DLG_TAGS 編輯標籤
+_C_DLG_TTF_TOP 選擇字串樣式
+_C_FIND_BTN_FIND &Find
+_C_FIND_CAPTION Find
+_C_FIND_CHK_CASESENSITIVE &Case Sensitive
+_C_FIND_COLUMN_FIELD Field
+_C_FIND_COLUMN_MATCH Match
+_C_FIND_STATUS_BUSY Searching...
+_C_FIND_STATUS_MANY_MANY Found {1} matches in {2} files.
+_C_FIND_STATUS_MANY_ONE Found {1} matches in {2} file.
+_C_FIND_STATUS_NONE No matches found.
+_C_FIND_STATUS_ONE_ONE Found {1} match in {2} file.
+_C_FIND_STC_RESULT &Result:
+_C_FIND_STRATEGY_BEGINSWITH Begins With
+_C_FIND_STRATEGY_CONTAINS Contains
+_C_FIND_STRATEGY_ENDSWITH Ends With
+_C_FIND_STRATEGY_MATCHESCONTENT Matches Content
+_C_FIND_STRATEGY_MATCHESWORD Matches Word
+_C_FIND_STRATEGY_REGEX Regular Expression
+_C_HELP 說明(&H)
+_C_MNU_ACTIONS 操作(&A)\tALT+6
+_C_MNU_CON 轉換(&C)
+_C_MNU_CON_FTF 檔名 → 檔名(&I)\tALT+3
+_C_MNU_CON_FTT 檔名 → 標籤(&F)\tALT+2
+_C_MNU_CON_TFF 標籤清單文字檔 → 標籤(&S)\tALT+4
+_C_MNU_CON_TTF 標籤 → 檔名(&T)\tALT+1
+_C_MNU_CON_TTT 標籤 → 標籤(&A)\tALT+5
+_C_MNU_COVER_ADD 加入封面(&A)…\tCtrl+Alt+A
+_C_MNU_EDIT 編輯(&E)
+_C_MNU_EDIT_COPY 複製(&O)\tCtrl+C
+_C_MNU_EDIT_COPY_FORMAT Copy as Text...
+_C_MNU_EDIT_CUT 剪下(&U)\tCtrl+X
+_C_MNU_EDIT_FIND &Find...\tCtrl+F
+_C_MNU_EDIT_INVERTSELECTION 反向選擇(&I)\tCtrl+Shift+A
+_C_MNU_EDIT_NEXT 選下一個檔案(&N)\tCtrl+N
+_C_MNU_EDIT_PASTE 貼上(&P)\tCtrl+V
+_C_MNU_EDIT_REDO 重做(&R)\tCtrl+Y
+_C_MNU_EDIT_REPEAT 重複(&R)\tCtrl+Y
+_C_MNU_EDIT_SELECT 選擇所有檔案(&F)\tCtrl+A
+_C_MNU_EDIT_UNDO 還原(&U)\tCtrl+Z
+_C_MNU_EDIT_UNSELECTALL 取消全選(&U)\tCtrl+U
+_C_MNU_EXTRA 工具(&O)
+_C_MNU_EXTRA_OPTIONS 選項(&O)…\tCtrl+O
+_C_MNU_EXTRA_RESET_EDITS 還原所有欄位(&I)\tCtrl+B
+_C_MNU_EXTRA_SET_EDITS 在輸入欄位的預設值\tCtrl+W
+_C_MNU_EXTRA_TRACKWIZARD 自動編號精靈…\tCtrl+K
+_C_MNU_FILE 檔案(&F)
+_C_MNU_FILE_ADD 加入資料夾…
+_C_MNU_FILE_CDDB freedb…\tCtrl+I
+_C_MNU_FILE_CDDBLOCAL 本機 freedb…\tCtrl+L
+_C_MNU_FILE_COPY 複製…
+_C_MNU_FILE_DELETE 刪除…
+_C_MNU_FILE_DIR 切換資料夾(&D)…\tCtrl+D
+_C_MNU_FILE_EXIT 離開(&X)\tAlt+F4
+_C_MNU_FILE_EXPORT 匯出(&E)…\tCtrl+E
+_C_MNU_FILE_FAVDIR 常用資料夾(&F)\tCtrl+M
+_C_MNU_FILE_MOVE 移動…
+_C_MNU_FILE_OPENFOLDER 在檔案總管開啟(&O)
+_C_MNU_FILE_OPENCONFIGFOLDER 開啟設定資料夾
+_C_MNU_FILE_PLALL 播放清單 (所有檔案)\tCtrl+P
+_C_MNU_FILE_PLAY 播放
+_C_MNU_FILE_PLAYLIST 載入播放清單或 Cuesheet…
+_C_MNU_FILE_PLGEN 生成播放清單...\tCtrl+Shift+P
+_C_MNU_FILE_PLSEL 播放清單 (選定的檔案)
+_C_MNU_FILE_PROPERTIES 檔案屬性…
+_C_MNU_FILE_READ 讀取標籤(&T)\tCtrl+T
+_C_MNU_FILE_REMOVE 移除標籤(&R)\tCtrl+R
+_C_MNU_FILE_REMOVEFILE 移除(&M)\tDel
+_C_MNU_FILE_RENAME 重新命名
+_C_MNU_FILE_SAVE 儲存標籤(&S)\tCtrl+S
+_C_MNU_FILE_SAVECONFIG 儲存設定(&C)…
+_C_MNU_FREEDB f&reedb
+_C_MNU_FREEDB_INDEX 建立本機索引
+_C_MNU_FS_EXT 詳細欄位
+_C_MNU_FS_FNCT 函數
+_C_MNU_FS_INFO 資訊欄位
+_C_MNU_FS_MANAGE 管理過往紀錄…
+_C_MNU_FS_REM 從過往紀錄中刪除
+_C_MNU_FS_REMALL 移除所有過往紀錄…
+_C_MNU_FS_REMALL_MSG 是否確定移除所有項目？
+_C_MNU_HELP 說明(&H)
+_C_MNU_HELP_ABOUT 關於 Mp3tag…
+_C_MNU_HELP_DONATE 捐助…
+_C_MNU_HELP_FINDER 目錄(&C)…\tF1
+_C_MNU_HELP_FIRSTSTEPS 新手上路(&F)
+_C_MNU_HELP_KEYBOARD 快捷鍵(&K)
+_C_MNU_HELP_SUPPORT 線上支援…
+_C_MNU_HELP_UPGRADE 檢查新版本…
+_C_MNU_HELP_WWW &Mp3tag 網頁…
+_C_MNU_TAG_EDIT 編輯…\tF2
+_C_MNU_TAG_NEW 新增…\tIns
+_C_MNU_TAG_REMOVE 移除\tDel
+_C_MNU_TAGSOURCES 資料來源(&S)
+_C_MNU_TAGSOURCES_SETTINGS 設定
+_C_MNU_TOOLS 工具(&T)
+_C_MNU_VIEW 檢視(&V)
+_C_MNU_VIEW_COLUMNS 自訂欄位(&C)…
+_C_MNU_VIEW_FILTER 過濾(&F)\tF3
+_C_MNU_VIEW_FILTER_AUTOAPPLY 自動套用過濾
+_C_MNU_VIEW_ID3 標籤面板\tCtrl+Q
+_C_MNU_VIEW_REFRESH 重新整理(&E)\tF5
+_C_MNU_VIEW_SORTBY 排序方式(&S)
+_C_MNU_VIEW_SORTBYRANDOM 隨機(&R)
+_C_MNU_VIEW_TAGS 標籤(&T)…\tALT+T
+_C_MNU_VIEW_TOOLBAR 工具列(&L)
+_C_MNU_SB_ACTIONS 將例如轉換、取代等等的自訂操作，套用到選定的檔案。
+_C_MNU_SB_CON_FTF 基於舊檔名定義樣式來重新命名檔案。
+_C_MNU_SB_CON_FTT 從檔名定義樣式匯出標籤。
+_C_MNU_SB_CON_TFF 從標籤檔案清單中定義樣式匯出標籤。
+_C_MNU_SB_CON_TTF 基於標籤定義樣式來重新命名檔案。
+_C_MNU_SB_CON_TTT 基於原標籤產生新標籤。
+_C_MNU_SB_EDIT_COPY 將選定的檔案標籤或者已選文字内容複製到剪貼簿。
+_C_MNU_SB_EDIT_COPY_FORMAT Copy textual representation of selected files onto the clipboard.
+_C_MNU_SB_EDIT_CUT 將選定的檔案標籤或者已選文字内容剪下，並移動到剪貼簿。
+_C_MNU_SB_EDIT_INVERTSELECTION 切換所有檔案的選擇狀態。
+_C_MNU_SB_EDIT_NEXT 在檔案檢視模式中標示下一個檔案。
+_C_MNU_SB_EDIT_PASTE 貼上剪貼簿資料到插入標示或選定的檔案中。
+_C_MNU_SB_EDIT_REDO 重做上次撤銷的操作。
+_C_MNU_SB_EDIT_REPEAT 重複上次操作。
+_C_MNU_SB_EDIT_SELECT 從檔案檢視模式選擇檔案。
+_C_MNU_SB_EDIT_UNDO 還原最後的操作。
+_C_MNU_SB_EDIT_UNSELECTALL 取消選擇所有檔案。
+_C_MNU_SB_EXTRA_OPTIONS 顯示選項對話框。
+_C_MNU_SB_EXTRA_RESET_EDITS 移除所有輸入欄位的文字。
+_C_MNU_SB_EXTRA_SET_EDITS 設定所有輸入欄位為定義標準值。
+_C_MNU_SB_EXTRA_TRACKWIZARD 執行自動音軌編號精靈。
+_C_MNU_SB_FILE_ADD 加入資料夾到檔案清單。
+_C_MNU_SB_FILE_CDDB 透過網路連線，取得光碟機中的音樂 CD 或選定的檔案的訊息。
+_C_MNU_SB_FILE_CDDBLOCAL 透過本機 freedb 資料庫，取得光碟機中的音樂 CD 或選定的檔案的訊息。
+_C_MNU_SB_FILE_COPY 複製選定的檔案到其它資料夾。
+_C_MNU_SB_FILE_DELETE 刪除選定的檔案。
+_C_MNU_SB_FILE_DIR 切換資料夾…
+_C_MNU_SB_FILE_EXIT 離開應用程式。
+_C_MNU_SB_FILE_EXPORT 匯出選定的檔案的標籤和檔案訊息。
+_C_MNU_SB_FILE_FAVDIR 切換至常用資料夾。
+_C_MNU_SB_FILE_FREEDBINDEX 建立本機 freedb 索引資料庫。
+_C_MNU_SB_FILE_MOVE 移動選定的檔案到其它資料夾。
+_C_MNU_SB_FILE_PLALL 從所有檔案建立播放清單。
+_C_MNU_SB_FILE_PLAY 播放選定的音樂檔。
+_C_MNU_SB_FILE_PLAYLIST 載入一個播放清單內容。
+_C_MNU_SB_FILE_PLSEL 從選定的檔案建立播放清單。
+_C_MNU_SB_FILE_PROPERTIES 顯示選定的檔案的內容。
+_C_MNU_SB_FILE_READ 從選定的檔案讀取標籤到輸入欄位。
+_C_MNU_SB_FILE_REMOVE 從選定的檔案移除標籤。
+_C_MNU_SB_FILE_REMOVEFILE 移除選定的檔案。
+_C_MNU_SB_FILE_RENAME 重新命名選定的檔案。
+_C_MNU_SB_FILE_SAVE 儲存標籤到選定的檔案。
+_C_MNU_SB_FILE_SAVECONFIG 將目前設定存檔。
+_C_MNU_SB_HELP_ABOUT 關於 Mp3tag。
+_C_MNU_SB_HELP_CONTEXT 顯示點擊欄位、選單和視窗的相關說明。
+_C_MNU_SB_HELP_DONATE 請考慮捐贈支持 Mp3tag 的發展。
+_C_MNU_SB_HELP_FINDER 說明目錄…
+_C_MNU_SB_HELP_FIRSTSTEPS 顯示 Mp3tag 簡介。
+_C_MNU_SB_HELP_KEYBOARD 顯示快捷鍵清單。
+_C_MNU_SB_HELP_SUPPORT 前往 Mp3tag 論壇。
+_C_MNU_SB_HELP_UPGRADE 檢查 Mp3tag 更新版本。
+_C_MNU_SB_HELP_WWW 前往 Mp3tag 網頁。
+_C_MNU_SB_UPDIR 前往上層資料夾
+_C_MNU_SB_VIEW_COLUMNS 當檔案檢視模式欄位可以自訂時顯示對話框。
+_C_MNU_SB_VIEW_FILTER 過濾檔案檢視模式。
+_C_MNU_SB_VIEW_ID3 顯示/隱藏標籤輸入遮罩。
+_C_MNU_SB_VIEW_REFRESH 重新整理檔案檢視模式。
+_C_MNU_SB_VIEW_TAGS 顯示詳細標籤對話框。
+_C_MNU_SB_VIEW_TOOLBAR 顯示/隱藏工具列。
+_C_MNU_SB_WND_IDLE 就緒
+_C_MNU_SB_WND_MAXIMIZE 展開視窗到全螢幕大小
+_C_MNU_SB_WND_MINIMIZE 最小化視窗到工作列
+_C_MNU_SB_WND_MOVE 移動視窗位置
+_C_MNU_SB_WND_RESTORE 將視窗從全螢幕或最小化還原到標準大小
+_C_MNU_SB_WND_SIZE 變更視窗大小
+_C_MULTILINE 多行
+_C_OK 確定(&O)
+_C_OPT_ACTIONGROUPS 操作群組
+_C_OPT_ACTIONGROUPS_BTN_APPLY 套用(&A)
+_C_OPT_ACTIONGROUPS_SEL_EMPTY 沒有操作群組生效
+_C_OPT_ACTIONGROUPS_SEL_MULTI {1} 個操作群組生效
+_C_OPT_ACTIONGROUPS_SEL_SINGLE 1 個操作群組生效
+_C_OPT_ACTIONGROUPS_SORTBYNAME 以名稱排序
+_C_OPT_ACTIONGROUPS_SORTBYSTATE 以狀態排序
+_C_OPT_ACTIONS 操作
+_C_OPT_ACTIONS_TYPE 選擇操作類型
+_C_OPT_ADVANCED 進階
+_C_OPT_ADVANCED_ID3V2LANG ID3v2 註釋中的語言代碼 (ISO-639-2)
+_C_OPT_ADVANCED_LISTCHAPTERS 將章節列為單獨的檔案
+_C_OPT_ADVANCED_POPULARIMETER 在 ID3v2 星級評等中永遠顯示 POPULARIMETER 數值
+_C_OPT_APPEARANCE 外觀
+_C_OPT_APPEARANCE_COLOR_DARK 深色
+_C_OPT_APPEARANCE_COLOR_DEFAULT 預設
+_C_OPT_APPEARANCE_COLOR_LIGHT 淺色
+_C_OPT_APPEARANCE_COLORMODE 色彩模式
+_C_OPT_APPEARANCE_MINVERSION 需要 Windows 10 1809 或以後的版本
+_C_OPT_CAPTION 選項
+_C_OPT_CDDB_CAPTION freedb
+_C_OPT_CDDB_CHK_USEPROXY 使用代理(&O)
+_C_OPT_CDDB_FRM_CDDB freedb 伺服器
+_C_OPT_CDDB_FRM_LOCALPATH 本機 freedb 路徑(&L):
+_C_OPT_CDDB_FRM_PROXY 代理
+_C_OPT_CDDB_RD_FMT_UNIX UNIX 格式
+_C_OPT_CDDB_RD_FMT_WIN Windows 格式
+_C_OPT_CDDB_ST_ADDRESS 位址(&A):
+_C_OPT_CDDB_ST_EMAIL 信箱(&E):
+_C_OPT_CDDB_ST_NAME 名稱(&N):
+_C_OPT_CDDB_ST_PATH 路徑:
+_C_OPT_CDDB_ST_PORT 連接埠:
+_C_OPT_CDDB_ST_PROXYNAME 代理(&P):
+_C_OPT_CDDB_ST_PROXYPORT 連接埠(&R):
+_C_OPT_CDDB_ST_PWD 密碼(&W):
+_C_OPT_CDDB_ST_TIMEOUT 連接時限(&I):
+_C_OPT_CDDB_ST_USERNAME 帳號名稱(&U):
+_C_OPT_CDDB3_CAPTION 本機 freedb
+_C_OPT_CON_FRM_FTT 檔名 → 標籤(&F)
+_C_OPT_CON_FRM_TFF 標籤清單文字檔 → 標籤(&X)
+_C_OPT_CON_FRM_TTF 標籤 → 檔名(&T)
+_C_OPT_CON_ST_FNAME 檔名:
+_C_OPT_CON_ST_FS 樣式:
+_C_OPT_DIR 資料夾
+_C_OPT_DIR_COVER 專輯封面資料夾
+_C_OPT_DIR_STARTUP 起始資料夾:
+_C_OPT_DIR_STARTUP_EMPTY 沒有
+_C_OPT_DIR_STARTUP_PREVIOUS 上次狀態
+_C_OPT_DIR_STARTUP_STANDARD 常用
+_C_OPT_EMPTY_HINT 請在下列選擇一個主題
+_C_OPT_EXP_CAPTION 匯出
+_C_OPT_EXP_CHK_APPEND 附加資料於檔案末端
+_C_OPT_EXP_CHK_WRITEBOM 寫入 BOM
+_C_OPT_EXP_FRM_EXPORT 匯出標籤方式
+_C_OPT_EXP_RD_TRACK 音軌
+_C_OPT_EXP_ST_FNAME 匯出檔名:
+_C_OPT_EXP_ST_NAME 請為新的標籤内容匯出方式提供名稱
+_C_OPT_FMT_CASE 大小寫轉換
+_C_OPT_FMT_FRM_FTF 檔名 → 檔名
+_C_OPT_FMT_ST_BEGIN 字 開始於/在任一…的之後:
+_C_OPT_FMT_ST_FNAME_NEW 新檔名樣式:
+_C_OPT_FMT_ST_FNAME_OLD 舊檔名樣式:
+_C_OPT_FMT2 取代
+_C_OPT_FMT2_CASE 區分大小寫(&S)
+_C_OPT_FMT2_COL_ORIGINAL 原始内容(&G)
+_C_OPT_FMT2_COL_REPLACE 取代為(&R)
+_C_OPT_FMT2_ONLYWORDS 僅整個字符合(&W)
+_C_OPT_GEN_CAPTION 一般
+_C_OPT_GEN_CHK_AUTOSAVE 當使用 方向鍵/滑鼠單鍵點擊 時儲存標籤(&U)
+_C_OPT_GEN_CHK_FOLDERSTART 從這個資料夾開始
+_C_OPT_GEN_CHK_GRID 檢視檔案時顯示格線
+_C_OPT_GEN_CHK_JUMPONEDIT 在檔案檢視模式中編輯時，自動選擇下一個檔案
+_C_OPT_GEN_CHK_KEEPFILETIME 當儲存標籤時保留檔案修改時間戳記
+_C_OPT_GEN_CHK_KEEPMOVEDFILES 將已經移動的檔案保留在檔案清單中
+_C_OPT_GEN_CHK_MSG_ACTIONWARNINGS 操作組合發出警告時
+_C_OPT_GEN_CHK_MSG_CHANGE 變更標籤後
+_C_OPT_GEN_CHK_MSG_CUT 剪下標籤時
+_C_OPT_GEN_CHK_MSG_DEL 刪除標籤後
+_C_OPT_GEN_CHK_MSG_DELETEFILE 刪除檔案時
+_C_OPT_GEN_CHK_MSG_EXPORT 匯出標籤時
+_C_OPT_GEN_CHK_MSG_PASTE 貼上標籤時
+_C_OPT_GEN_CHK_MSG_REMOVETAGS 移除標籤時
+_C_OPT_GEN_CHK_MSG_SAVE 儲存後
+_C_OPT_GEN_CHK_MSG_TSIMPORTCOVER 匯入封面時
+_C_OPT_GEN_CHK_MSG_UNSAVED 有未儲存的變更
+_C_OPT_GEN_CHK_PL 自動生成播放清單(&P)
+_C_OPT_GEN_CHK_RELPL 清單中的音樂檔採用相對路徑
+_C_OPT_GEN_CHK_AUTOCOMPLETE 在選擇框裡自動完成
+_C_OPT_GEN_CHK_SELECTFILES 自動選擇檔案
+_C_OPT_GEN_CHK_SHOWEXPLORERCONTEXTMENU 在 Windows 檔案總管的右鍵選單顯示
+_C_OPT_GEN_CHK_SORTNATURAL 使用自然排序
+_C_OPT_GEN_CHK_TITLESHOWFOLDERPATH 在視窗標題中顯示目前的資料夾路徑(&S)
+_C_OPT_GEN_FRM_GEN 基本設定
+_C_OPT_GEN_FRM_MSG 顯示訊息
+_C_OPT_GEN_FRM_PL 播放清單檔名(&F)
+_C_OPT_GEN_RD_PLALL 從所有檔案
+_C_OPT_GEN_RD_PLSEL 從選定的檔案
+_C_OPT_GEN_ST_FAVDIR 常用資料夾:
+_C_OPT_GEN2_CAPTION 訊息
+_C_OPT_GENRES 自訂音樂類型
+_C_OPT_GENRES_HIDESTANDARD 僅顯示自訂的音樂類型
+_C_OPT_GENRES_PREFEREXISTING 在標籤面板中顯示音樂類型清單時，優先採用標籤的内容
+_C_OPT_ID3_CHK_ISO88591 寫入標籤時採用 ISO-8859-1 編碼而非 UTF-16
+_C_OPT_ID3_CHK_LEADINGZEROS 音軌編號加入前導零 (01, 02, …)
+_C_OPT_ID3_CHK_LENGTHDEPENDEND 僅 ID3v1 空間不足才使用 ID3v2
+_C_OPT_ID3_CHK_V1 ID3v1
+_C_OPT_ID3_CHK_V2 ID3v2
+_C_OPT_ID3_FRM_READ 讀取
+_C_OPT_ID3_FRM_REMOVE 移除
+_C_OPT_ID3_FRM_WRITE 寫入
+_C_OPT_LIB 媒體櫃
+_C_OPT_LIB_CHK_ENABLE 啟用媒體櫃
+_C_OPT_LIB_CHK_RESTRICT 僅包含這些資料夾
+_C_OPT_LIB_CLEANUP 清除媒體櫃
+_C_OPT_MAPPING 標籤對應
+_C_OPT_MAPPING_FRM 自訂標籤對應
+_C_OPT_MAPPING_SOURCE 來源
+_C_OPT_MAPPING_TARGET 目標
+_C_OPT_PLAYLIST_CAPTION 播放清單
+_C_OPT_PLAYLIST_EXTENDED 寫入詳細資料
+_C_OPT_PLAYLIST_NOFOLDERS 不建立資料夾
+_C_OPT_PLAYLIST_SHOWDLG 顯示確認檔名對話框
+_C_OPT_TAG 標籤
+_C_OPT_TAGS_COVER 封面檔的預設名稱:
+_C_OPT_TAGS_EXT 在詳細標籤對話框中按 << 和 >> 的標籤儲存方式:
+_C_OPT_TAGS_FILEFILTER 限制只讀取下列檔案的内容:
+_C_OPT_TAGS_MUSICBRAINZ_COVERSIZE MusicBrainz 封面尺寸
+_C_OPT_TAGS_NOIMG 不從資料夾顯示第一幅圖片為封面樣式(&D)
+_C_OPT_TOOLS 工具
+_C_OPT_TOOLS_CHK_DEFAULT 雙擊時使用指定程式:
+_C_OPT_TOOLS_CHK_MULTIPLEINSTANCES 給所有選定的檔案
+_C_OPT_TOOLS_COL_PARAM 參數
+_C_OPT_TOOLS_COL_PATH 路徑
+_C_OPT_TOOLS_EDIT 自訂工具。名稱和檔案路徑是必需的。
+_C_OPT_TOOLS_FRM_DEFAULT 預設工具
+_C_OPT_TOOLS_FRM_TOOLS 工具
+_C_PLAYLIST_GENERATOR 播放清單生成器
+_C_PLAYLIST_GENERATOR_FORMAT 設定播放清單檔名的字串格式：
+_C_PLAYLIST_GENERATOR_PARTITION 檔案分區依據：
+_C_PLAYLIST_GENERATOR_PREVIEW 預覽：
+_C_PLAYLIST_GENERATOR_STATUS_BUSY 生成中 ...
+_C_PLAYLIST_GENERATOR_STATUS_ONE {1} 個播放清單
+_C_PLAYLIST_GENERATOR_STATUS_MANY {1} 個播放清單
+_C_OVERWRITE 覆寫(&W)
+_C_RENAME 重新命名(&R)
+_C_TEXT 文字
+_C_TT_CDDB freedb…
+_C_TT_CDDBLOCAL 本機 freedb…
+_C_TT_CLOSE 關閉
+_C_TT_DIR 切換資料夾…
+_C_TT_EDIT_REDO 重做
+_C_TT_EDIT_REPEAT 重複
+_C_TT_EDIT_UNDO 還原
+_C_TT_EXPORT 匯出
+_C_TT_FAVDIR 常用資料夾
+_C_TT_FILE_ADD 加入資料夾…
+_C_TT_FILE_COPY 複製到…
+_C_TT_FILE_DELETE 刪除…
+_C_TT_FILE_MOVE 移動到…
+_C_TT_FILE_PLAY 播放
+_C_TT_FILE_PROPERTIES 屬性…
+_C_TT_FILE_RENAME 重新命名
+_C_TT_FTF 檔名 → 檔名
+_C_TT_FTT 檔名 → 標籤
+_C_TT_HELP 說明主題
+_C_TT_OPT 選項對話框…
+_C_TT_PLALL 從所有檔案建立播放清單
+_C_TT_PLSEL 從選定的檔案建立播放清單
+_C_TT_REFRESH 重新整理檔案檢視模式
+_C_TT_REMOVE 移除標籤
+_C_TT_SAVE 儲存
+_C_TT_TFF 標籤清單文字檔 → 標籤
+_C_TT_TTF 標籤 → 檔名
+_C_TT_TTT 標籤 → 標籤
+_C_TT_UPDIR 上一層
+_C_WIZARD_TRACKS 自動編號精靈
+_C_WIZARD_TRACKS_BEGIN 起始音軌編號:
+_C_WIZARD_TRACKS_DESC 分配音軌及光碟編號
+_C_WIZARD_TRACKS_DISC_BEGIN 起始光碟編號
+_C_WIZARD_TRACKS_DISC_LEADINGZEROS 光碟編號加入前導零 (01, 02, …)
+_C_WIZARD_TRACKS_DISC_SAVETOTAL 儲存光碟總數
+_C_WIZARD_TRACKS_DISCNUMBER 光碟編號
+_C_WIZARD_TRACKS_NEXTDISC_FIELD 當……變更時遞增光碟編號
+_C_WIZARD_TRACKS_NEXTDISC_FOLDER 當切換資料夾時遞增光碟編號
+_C_WIZARD_TRACKS_RESETDISC_FIELD 當……變更時重設光碟編號
+_C_WIZARD_TRACKS_RESETFOLDERS 每個資料夾都重設編號
+_C_WIZARD_TRACKS_RESETTRACK_NEXTDISC 重置下一張光碟上的曲目計數器
+_C_WIZARD_TRACKS_SAVETOTAL 儲存音軌總數
+_C_WIZARD_TRACKS_TRACKNUMBER 音軌編號
+_M_ERR_CANCEL 處理被取消。
+_M_ERR_CDDB_CD 讀取音樂 CD 錯誤
+_M_ERR_CDDB_CONNECT 連接伺服器時發生錯誤：{1}
+_M_ERR_CDDB_NOENTRY 對於 freedb ID {1} 沒有找到合適的項目。
+_M_ERR_CDDB_NOENTRYINLOCALBD 對於 freedb ID {1} 沒有找到合適的項目(在本機 freedb 資料庫「{2}」中)。
+_M_ERR_CDDB_PARSER 查詢沒有結果。
+_M_ERR_CDDB_READ 從 {1} 讀取資料時發生錯誤。
+_M_ERR_CONFIGURATION 無法匯入設定。
+_M_ERR_COPY 無法複製選定的檔案！
+_M_ERR_DELETE 無法刪除選定的檔案！
+_M_ERR_FILECREATE 無法建立檔案 \"{1}\"。
+_M_ERR_FILEDELETE 無法刪除檔案 \"{1}\"。
+_M_ERR_FILENAMEALREADYEXISTS 檔案 \"{1}\" 已經存在！
+_M_ERR_FILENAMEALREADYEXISTS2 檔案 \"{1}\" 沒有改名。
+_M_ERR_FILEOPABORTED 目前資料夾內容已經被變更。\n\n是否重新讀取當前的資料夾？
+_M_ERR_FILEOPEN 無法開啟檔案 \"{1}\"。
+_M_ERR_FILEREADONLY 檔案 \"{1}\" 是唯讀檔案。\n\n要 Mp3tag 停用這個檔案和任何之後的唯讀檔案的寫入保護嗎？
+_M_ERR_FOLDERCANNOTBEACCESSED 存取錯誤\n\n無法存取資料夾 \"{1}\"。
+_M_ERR_INVALID_FILENAME 請指定合法的檔名。
+_M_ERR_INVALID_FTF_FS \"{1}\" 不是合法的檔名樣式。
+_M_ERR_INVALID_TOKEN {1}：\n下列字元不允許存在於檔名中：\n\\ / : * ? \" < > |\n\n要自動修正嗎？
+_M_ERR_MOVE 無法移動選定的檔案！
+_M_ERR_ONLINE_NOTFOUND 對不起，沒有項目符合搜尋的條件。
+_M_ERR_OPT_CDDB_NOADDRESS 請輸入 freedb 伺服器位址。
+_M_ERR_OPT_CDDB_NOEMAIL 請在「選項 → freedb → 伺服器」下輸入您的信箱位址。它會被用來記錄 freedb 伺服器的存取。
+_M_ERR_OPT_CDDB_NONAME 請輸入有效名稱代表這組設定。
+_M_ERR_OPT_CDDB_NOPORT 請輸入 freedb 伺服器的連接埠號。
+_M_ERR_PARSELINE 無法解析第 {1} 行。
+_M_ERR_PLAY 無法開啟檔案 \"{1}\" 進行播放！
+_M_ERR_READ_FILE 無法讀取檔案 \"{1}\"。
+_M_ERR_RENAME_FILE 檔案 \"{1}\" 無法被重新命名為 \"{2}\"。
+_M_ERR_RETRY 要不要再嘗試？
+_M_ERR_TL_NOTAGS 沒有匹配檔案 \"{1}\" 的條目。
+_M_ERR_WRITE_FILE 無法寫入檔案 \"{1}\"。
+_M_ERR_YN \n\n確認要繼續嗎？
+_M_LOG_FMT_FNAME {2} 個檔案裡其中 {1} 個已重新命名。\n
+_M_LOG_FMT_TAG {2} 個檔案裡其中 {1} 個已寫入標籤。\n
+_M_LOG_FTF {2} 個檔案裡其中 {1} 個已重新命名。
+_M_LOG_FTT 標籤來自 {1} / {2} 檔案。
+_M_LOG_PL_ALL 播放清單 \"{1}\" 建立自所有 ({2}) 檔案。
+_M_LOG_PL_SEL 播放清單 \"{1}\" 建立自選擇的 ({2}) 檔案。
+_M_LOG_REMOVE 已從檔案 \"{1}\" 中移除標籤。
+_M_LOG_REMOVED 已從 {2} 個檔案裡其中 {1} 個移除標籤。
+_M_LOG_REMOVE_NOTAG 檔案 \"{1}\" 中沒有標籤。
+_M_LOG_SAVE 已儲存檔案 \"{1}\" 的標籤。
+_M_LOG_SAVED 已儲存 {2} 個檔案裡其中 {1} 個的標籤。
+_M_LOG_TFF 已從標籤清單 \"{1}\" 擷取標籤，並儲存在 {3} 個檔案裡其中 {2} 個。
+_M_LOG_TFF_S 已從標籤清單 \"{1}\" 匯入内容到 1 個檔案。
+_M_LOG_TTF {2} 個檔案裡其中 {1} 個已重新命名。
+_M_STAT_PLAY 正在播放檔案 \"{1}\"…
+_M_STR_ACTION_ADJUSTCOVER 調整封面尺寸
+_M_STR_ACTION_ADJUSTCOVER_FORMAT 格式
+_M_STR_ACTION_ADJUSTCOVER_FORMATKEEP 原圖
+_M_STR_ACTION_ADJUSTCOVER_QUALITY 品質
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_BEST 最佳
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_HIGH 高
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_LOW 低
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_MEDIUM 中
+_M_STR_ACTION_ADJUSTCOVER_SIZE 尺寸上限
+_M_STR_ACTION_CODEPAGE 轉換文字編碼
+_M_STR_ACTION_CODEPAGE_DESC 文字編碼
+_M_STR_ACTION_EXPORTCOVER 匯出封面至檔案
+_M_STR_ACTION_EXPORTCOVER_DUPES 匯出重複封面
+_M_STR_ACTION_EXPORTCOVER_TYPES 僅匯出指定類型的封面
+_M_STR_ACTION_FORMAT 樣式值
+_M_STR_ACTION_GUESS 推測值
+_M_STR_ACTION_GUESSPATTERN 推測樣式
+_M_STR_ACTION_GUESSSOURCE 内容來源
+_M_STR_ACTION_IMPORTCOVER 從檔案匯入封面
+_M_STR_ACTION_IMPORTCOVER_FS 圖片檔名的樣式:
+_M_STR_ACTION_IMPORTCOVER_DELETE 刪除已有的封面(&D)
+_M_STR_ACTION_IMPORTCOVER_TYPE 匯入封面為:
+_M_STR_ACTION_IMPORTTEXT 匯入文字檔
+_M_STR_ACTION_MERGEDUPLICATEFIELDS 合併重複欄位
+_M_STR_ACTION_PLAYLIST 生成播放清單
+_M_STR_ACTION_REGEXP 用正則表達式取代
+_M_STR_ACTION_REGEXP_EXP 正則表達式(&X)
+_M_STR_ACTION_REGEXP_MATCH 符合的文字取代為(&M)
+_M_STR_ACTION_REMOVEDUPES 移除重複欄位
+_M_STR_ACTION_REMOVEDUPES_ONLYSAMECONTENT 僅具有相同內容的重複欄位
+_M_STR_ACTION_REM 移除欄位
+_M_STR_ACTION_REM_DESC 要移除的欄位(以分號分隔):
+_M_STR_ACTION_REM_EX 移除指定以外的所有欄位
+_M_STR_ACTION_REM_EX_DESC 要保留的欄位(以分號分隔):
+_M_STR_ACTION_SETCOVERPROPERTIES 設定專輯封面屬性
+_M_STR_ACTION_SETCOVERPROPERTIES_DESC 專輯封面說明:
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER 套用於:
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER_ALL 所有封面
+_M_STR_ACTION_SETCOVERPROPERTIES_TYPE 封面分類:
+_M_STR_ACTION_SPLITFIELDS 使用分隔字元拆分欄位
+_M_STR_ACTIONGROUP_CHANGED 操作群組的設定已被更改。\r\n\r\n要儲存變更嗎？
+_M_STR_ACTIONGROUP_NAME 操作群組的名稱
+_M_STR_ALBUM 專輯
+_M_STR_ALBUMARTIST 專輯藝人
+_M_STR_ALL_FILEDLGFILTER 所有檔案 (*.*)|*.*||
+_M_STR_ARTIST 藝人
+_M_STR_AUTHOR 作者
+_M_STR_AUTOSIZECOLUMNS 自動調整欄位寬度
+_M_STR_BACK < 上一步(&B)
+_M_STR_BROWSE_COPY 複製到:
+_M_STR_BROWSE_MOVE 移動到:
+_M_STR_BROWSE_TEXT 請選擇一個包含音訊檔案的資料夾。
+_M_STR_BYTES 位元組
+_M_STR_CDDB_CD 讀取音樂 CD
+_M_STR_CDDB_CONNECT 連線到 {1}…
+_M_STR_CDDB_CONNECTED  已連線！
+_M_STR_CDDB_IDXDB_ENTRIES 已建立資料庫項目
+_M_STR_CDDB_RETRIEVE 擷取音樂標題資料
+_M_STR_COLUMNFILENAME 檔名
+_M_STR_COLUMNPATH 路徑
+_M_STR_COLUMNUSEDCOLS 顯示
+_M_STR_COMBO_HOLD <保留>
+_M_STR_COMBO_REMOVE <空白>
+_M_STR_COMBO_USER <輸入>
+_M_STR_COMMENT 註釋
+_M_STR_COMPOSER 作曲者
+_M_STR_COPYOF {1} 的複本
+_M_STR_COVER 封面
+_M_STR_COVER_ADD 要保留現有的封面嗎？
+_M_STR_COVER_CORRECTAR 校正長寬比
+_M_STR_COVER_SETDESC 設定封面描述(&D)…
+_M_STR_COVER_SETTYPE 設定封面類型(&T)
+_M_STR_COVERVARIES 封面不同
+_M_STR_CUSTOMIZE 自訂…
+_M_STR_CUSTOMLISTVALUES 自訂清單值
+_M_STR_DAY 天
+_M_STR_DAYS 天
+_M_STR_DEFAULTVALUE 預設值
+_M_STR_DESCRIPTION 描述
+_M_STR_DISCID CDDB ID
+_M_STR_DISCOGS_OAUTH_PIN 輸入 Discogs 授權碼
+_M_STR_DISCNUMBER 光碟編號
+_M_STR_DONTSHOWAGAIN 不再顯示這個訊息
+_M_STR_ERR_CDDB_NOENTRYSELECTED 請選擇一個項目。
+_M_STR_EXPORT 匯出...
+_M_STR_EXPORT_DELETE 刪除匯出標籤方式 \"{1}\" 嗎？
+_M_STR_EXPORT_FILEDLGTITLE 選擇匯出檔案
+_M_STR_EXPORT_MULTIPLE 每個資料夾分開檔案
+_M_STR_EXPORT_SHOWEXPORTFILE \n\n立刻顯示匯入檔案嗎？
+_M_STR_EXP_MSG 處理了 {2} 個檔案，將匯出内容寫入至檔案 '{1}'。
+_M_STR_FIELD 欄位(&I):
+_M_STR_FIELDSIZE 欄位大小
+_M_STR_FIELDTYPE 類型
+_M_STR_FIELDROWS 行數
+_M_STR_FILE 檔案
+_M_STR_FILEDELETE 是否確定刪除所有選定的檔案？
+_M_STR_FILEMODIFIED 修改日期
+_M_STR_FILESIZE 大小
+_M_STR_FILTER 過濾(&R):
+_M_STR_FMT_CAPITAL 混合大小寫
+_M_STR_FMT_HIGH 大寫
+_M_STR_FMT_LOW 小寫
+_M_STR_FMT_SENTENCE 句子
+_M_STR_FREEDBCREATEINDEX 建立本機 freedb 索引資料庫嗎？\n\n這個可能需要花費幾分鐘。
+_M_STR_FREEDB_SEARCH freedb 網頁搜尋
+_M_STR_GENRE 音樂類型
+_M_STR_GENRES 音樂類型
+_M_STR_HIDE 隱藏(&I)
+_M_STR_IMPORT 匯入...
+_M_STR_ITEMALREADYEXISTS 這個項目名稱已經存在，要覆寫嗎？
+_M_STR_LANGUAGE 語言
+_M_STR_M3U_FILEDLGFILTER 支援的檔案 (*.m3u; *.m3u8; *.cue)|*.m3u; *.m3u8; *.cue||
+_M_STR_MANAGE 管理...
+_M_STR_MANAGEHISTORY 管理過往紀錄
+_M_STR_METADATA 中繼資料(&M)
+_M_STR_MOVEDOWN 下移(&V)
+_M_STR_MOVEUP 上移(&P)
+_M_STR_MPEGBITRATE 位元率
+_M_STR_MPEGFREQUENCY 頻率
+_M_STR_MPEGLENGTH 長度
+_M_STR_MPEGMODE 聲道
+_M_STR_MPEGVERSION 轉碼器
+_M_STR_MSGCUT 確定要移除選定的檔案的標籤，並將内容複製到剪貼簿嗎？
+_M_STR_MSGPASTE 確定要貼上剪貼簿資料，作為選定的檔案的新標籤嗎？
+_M_STR_MSGREMOVE 確定要移除選定的檔案的標籤嗎？
+_M_STR_NAME 名稱(&A)
+_M_STR_NETWORKING 網路
+_M_STR_NEXT 下一步(&N) >
+_M_STR_NOACTION ━無操作━
+_M_STR_NOACTIONENABLED 當使用這個功能時，請剔選來啟用至少一個操作組合。
+_M_STR_NUMERIC 數字(&M)
+_M_STR_OPT_CDDB_BROWSE_LOCALPATH 請選擇本機 freedb 資料庫所在的資料夾。
+_M_STR_OPT_CDDB_PROCEED 將會移除所有伺服器設定！\n\n真的要繼續嗎？\n
+_M_STR_OPTIMIZEFLAC 最佳化 FLAC
+_M_STR_OPTIMIZEMP4 最佳化 MP4
+_M_STR_OPTS_ALWAYS 一定
+_M_STR_OPTS_ASK 提示
+_M_STR_OPTS_NEVER 決不
+_M_STR_PLNAME 播放清單 → 檔名
+_M_STR_PL_CONFIRM 用這個檔名建立播放清單
+_M_STR_PL_SAVEFILTER 播放清單文件 (*.m3u)|*.m3u|Unicode 播放清單文件 (*.m3u8)|*.m3u8||
+_M_STR_PREFERTAGVALUES 在標籤面板中顯示清單時，優先採用標籤的内容
+_M_STR_PRESET_SELECTION 創建選擇預設(&P)...
+_M_STR_PRESETS 預設值(&P)
+_M_STR_PREVIEW 預覽
+_M_STR_PROPERTIES {1} 屬性
+_M_STR_QUICK 快速(&Q)
+_M_STR_RECURSE 包括子資料夾
+_M_STR_REST 其它
+_M_STR_SAVE_NOT < 未關聯 >
+_M_STR_SAVECONFIG 設定已經備份在\n\n'{1}'\n\n如果要重新回復程式設定，請將檔案解壓縮至\n\"{2}\"
+_M_STR_SAVECONFIG_FILEDLGFILTER 設定備份 (*.zip)|*.zip||
+_M_STR_SAVECONFIG_FILEDLGTITLE 將設定儲存於…
+_M_STR_SAVEIMAGE 圖片儲存到標籤内
+_M_STR_SAVEIMAGEDIRECTORY 圖片儲存至硬碟
+_M_STR_SAVESELECTION 保存選區…
+_M_STR_SB_ABORTED 已中止
+_M_STR_SB_ACTION 正在套用操作到檔案 … {1} / {2}
+_M_STR_SB_CLEANUPDATABASE 正在處理檔案… {1} / {2} ({3} 已清除)
+_M_STR_SB_CLEANUPDATABASE_BINARIES 清理孤立的二進位檔案
+_M_STR_SB_CLEANUPDATABASE_COVERS 清理孤立的封面
+_M_STR_SB_CLEANUPDATABASE_NONLIBFILES 清理非媒體櫃檔案
+_M_STR_SB_EXPORTTAGS 正在匯出標籤訊息 … {1} / {2}
+_M_STR_SB_FILTER 過濾中 …
+_M_STR_SB_LOADTAGS 正在讀取標籤資料 … {1} / {2}
+_M_STR_SB_READDIRECTORY 正在讀取資料夾
+_M_STR_SB_REMOVETAGS 正在移除標籤資料 … {1} / {2}
+_M_STR_SB_RENAMEFILES 正在重新命名檔案 … {1} / {2}
+_M_STR_SB_WRITETAGS 正在寫入標籤資料 … {1} / {2}
+_M_STR_SHOWCHOOSEDLG 顯示選擇對話框
+_M_STR_SEARCHBY 搜尋:
+_M_STR_SEARCHTEXT 文字:
+_M_STR_SEPARATOR 分隔字元
+_M_STR_SHOW 顯示(&S)
+_M_STR_SIZE_FULL 滿的
+_M_STR_SIZE_LARGE 大
+_M_STR_SIZE_LARGER 更大
+_M_STR_SIZE_MEDIUM 中
+_M_STR_SIZE_NORMAL 正常
+_M_STR_SIZE_SMALLER 更小
+_M_STR_SIZE_SMALL 小
+_M_STR_SIZE_TINY 極小
+_M_STR_SNA 訊息通知區
+_M_STR_SNA_SHOW 在訊息通知區中永遠顯示圖示
+_M_STR_SNA_SHOWMIN 最小化至訊息通知區
+_M_STR_STRIPCHAPTERSMP4 剝離 MP4 章節
+_M_STR_TAG_COPIED {1} 個檔案的標籤已複製到剪貼簿中。
+_M_STR_TAG2 標籤
+_M_STR_TAGFIELDS_REMOVE 移除欄位
+_M_STR_TAGFIELDS_REMOVEALL 移除全部欄位…
+_M_STR_TAGFIELDS_REMOVEALLMSG 是否確定移除清單中的全部欄位？
+_M_STR_TAGFIELDS_RESET 重置欄位…
+_M_STR_TAGFIELDS_RESETMSG 是否確定重置清單中的欄位到默認值？
+_M_STR_TAGPANEL 標籤面板
+_M_STR_TAGPANEL_COVER 顯示專輯封面
+_M_STR_TAGPANEL_DIRECTORY 顯示資料夾選擇框
+_M_STR_TAGPANEL_DUPLICATEFIELD {1} 已用於另一個欄位，不能添加兩次。
+_M_STR_TAGLIST_FILEDLGFILTER 標籤清單 ({1})
+_M_STR_TAGLIST_FILEDLGTITLE 選擇標籤清單
+_M_STR_TAGSOURCES 資料來源
+_M_STR_THISALBUMON 這個專輯在 {1}
+_M_STR_TITLE 標題
+_M_STR_TRYAGAIN 是否要重試？
+_M_STR_TTF 標籤 → 檔名
+_M_STR_UNSAVED 要不要儲存變更？
+_M_STR_UPDATE_FRM 更新
+_M_STR_UPDATE_OPT_CHECK 啟動時檢查新版本
+_M_STR_UPDATE_OPT_CHECK_BETA 包括開發中的 Beta 版
+_M_STR_UPDATE_OPT_CHECK_RELEASENOTES 顯示新版本的資訊
+_M_STR_UPDATEAVAILABLE 發現新版本 {1}！\n\n想從 {2} 立刻下載更新嗎？
+_M_STR_UPDATENOTAVAILABLE 已經是最新版本的 {1}。\n\n沒有任何更新。
+_M_STR_URL https://www.mp3tag.de/en/download.html
+_M_STR_UTILS 工具(&U)
+_M_STR_VALUE 值(&L)
+_M_STR_VERSION 版本
+_M_STR_YEAR 年份
+_M_TP_CDDB_LOCALPATH 指定本機 freedb 資料夾
+_M_TP_CDDB_SITES 網路上 freedb 伺服器的目前清單
+_M_TP_CVR_CLIPBOARD 貼上封面
+_M_TP_CVR_CLIPBOARD_COPY 複製封面
+_M_TP_CVR_CLIPBOARD_CUT 剪下封面
+_M_TP_CVR_DEL 移除封面(&R)
+_M_TP_CVR_NEW 加入封面(&A)…
+_M_TP_CVR_SAVE 擷取封面(&E)…
+_M_TP_DUPLICATE 複製
+_M_TP_EXP_DEL 刪除(&D)
+_M_TP_EXP_EDIT 編輯
+_M_TP_EXP_FILE 選擇匯出檔案
+_M_TP_EXP_HLP 顯示快速說明
+_M_TP_EXP_LOAD 載入設定…
+_M_TP_EXP_NEW 新增(&N)
+_M_TP_EXP_SAVE  儲存設定…
+_M_TP_GEN_DIR 選擇資料夾
+_M_TP_TAG_DEL 移除欄位
+_M_TP_TAG_EDIT 編輯欄位…
+_M_TP_TAG_NEW 新增欄位…
+_M_TS_ADDINFO 額外資訊(&D)
+_M_TS_MULTIPLEVALUES 多重值
+_M_TS_RELEASE 發行(&R)
+_M_TS_TRACKS 音軌(&T)
+_M_UNDO_CANNOTREDO 無法重做 {1}
+_M_UNDO_CANNOTUNDO 無法還原 {1}
+_M_UNDO_CDDB freedb
+_M_UNDO_DIRECTORYCREATE 建立資料夾
+_M_UNDO_DIRECTORYMOVE 移動資料夾
+_M_UNDO_FORMAT 格式
+_M_UNDO_FTF 檔名 → 檔名
+_M_UNDO_FTT 檔名 → 標籤
+_M_UNDO_REMOVEFILE 移除
+_M_UNDO_RENAME 重新命名
+_M_UNDO_TAGCHANGE 變更標籤
+_M_UNDO_TAGREMOVE 移除標籤
+_M_UNDO_TAGSAVE 儲存標籤
+_M_UNDO_TFF 標籤清單文字檔 → 標籤
+_M_UNDO_TTF 標籤 → 檔名
