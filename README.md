@@ -6,4 +6,7 @@ The GUI of the application is accessed through a modern web browser (no installa
 
 based on https://github.com/jlesage/docker-mkvcleaver/
 
+docker run -p 5806:5800 -v ./music:/music:rw ghcr.io/devloic/docker-mp3tag:main
+
+
 ![image](https://github.com/user-attachments/assets/fa335b71-a366-46bc-84dc-9244699e4178)
