@@ -38,7 +38,7 @@ RUN \
 
 # Generate and install favicons.
 RUN \
-    APP_ICON_URL=https://raw.githubusercontent.com/devloic/logomp3tag.png && \
+    APP_ICON_URL=https://raw.githubusercontent.com/devloic/docker-mp3tag/refs/heads/main/logomp3tag.png && \
     install_app_icon.sh "$APP_ICON_URL"
 
 # Add files.
