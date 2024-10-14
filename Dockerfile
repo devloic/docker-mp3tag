@@ -61,5 +61,5 @@ LABEL \
       org.label-schema.name="${MYAPP_NAME:-unknown}" \
       org.label-schema.description="Docker container for ${MYAPP_NAME:-unknown}" \
       org.label-schema.version="${DOCKER_IMAGE_VERSION:-unknown}" \
-      org.label-schema.vcs-url="https://github.com/jlesage/docker-mkvcleaver" \
+      org.label-schema.vcs-url="https://github.com/devloic/docker-mp3tag" \
       org.label-schema.schema-version="1.0"
